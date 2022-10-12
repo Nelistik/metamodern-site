@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/f29d55a6-c9c4-4efe-9bf5-0ca11ea78556.png");
+  background-image: url("https://static.overlay-tech.com/assets/d6a6ab65-1783-4a97-bbf0-6dbfa0230fd6.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -347,7 +347,7 @@
   top: 0;
 }
 .process-metamo-derna-two {
-  width: 100%;
+  width: 254px;
   font-family: "Montserrat";
   font-size: 14px;
   font-weight: 400;
@@ -389,7 +389,17 @@
   height: 300px;
   position: absolute;
   left: calc(50% - 300px / 2);
-  top: calc(50% - 300px / 2);
+  top: 0.02px;
+}
+.process-metamo-derna-three {
+  width: calc(100% - 2.8421709430404e-14px);
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 36px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  text-transform: uppercase;
 }
 .frame-fifteen {
   width: calc(31.91% - 45.98px);
@@ -410,6 +420,23 @@
   position: absolute;
   left: 0;
   bottom: -396.02px;
+}
+.image-four {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: calc(50% - 300px / 2);
+  top: 0.03px;
+}
+.process-metamo-derna-four {
+  width: 100%;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 36px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  text-transform: uppercase;
 }
 .recent-projects {
   width: 230px;
@@ -606,7 +633,7 @@
   left: calc(50% - 330px / 2);
   top: -1.95px;
 }
-.image-four {
+.image-five {
   width: 64px;
   height: 64px;
 }
@@ -630,7 +657,7 @@
   align-items: center;
   position: relative;
 }
-.image-five {
+.image-six {
   width: 64px;
   height: 64px;
   margin-bottom: 10px;
@@ -731,7 +758,7 @@
 .frame-thirty-two {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/89d48a6a-33bb-4db9-973a-6ea491edc8e3.png"),
+  background: url("https://static.overlay-tech.com/assets/8d7e3a1d-12e4-4133-b4db-48baa999c1fe.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
@@ -753,7 +780,7 @@
   flex-direction: column;
   align-items: center;
 }
-.image-six {
+.image-seven {
   width: 44px;
   height: 65px;
   margin-bottom: 26px;
@@ -813,7 +840,7 @@
   flex-direction: column;
   align-items: center;
 }
-.image-seven {
+.image-eight {
   width: 70px;
   height: 50px;
   margin-bottom: 34px;
@@ -884,7 +911,7 @@
   flex-direction: column;
   align-items: flex-start;
 }
-.image-eight {
+.image-nine {
   width: 68px;
   height: 56px;
   margin-bottom: 28px;
@@ -925,7 +952,7 @@
   left: 23.05px;
   top: -1.95px;
 }
-.image-nine {
+.image-ten {
   width: 100%;
   padding: 1.56px 0 1.06px;
   display: flex;
@@ -947,7 +974,7 @@
   left: 23.05px;
   top: -1.95px;
 }
-.image-ten {
+.image-eleven {
   width: 100%;
   padding: 0 0 0.2px;
   display: flex;
