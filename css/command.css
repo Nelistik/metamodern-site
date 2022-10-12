@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/d6a6ab65-1783-4a97-bbf0-6dbfa0230fd6.png");
+  background-image: url("https://static.overlay-tech.com/assets/cdce4137-9b3f-4e35-ae22-1fc20de7f423.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -101,6 +101,7 @@
 }
 .dvizhenie-ra-di-dvizhenija {
   max-width: 476px;
+  width: 100%;
   font-family: "Montserrat";
   font-size: 43px;
   font-weight: 400;
@@ -347,7 +348,7 @@
   top: 0;
 }
 .process-metamo-derna-two {
-  width: 254px;
+  width: calc(100% - 2.8421709430404e-14px);
   font-family: "Montserrat";
   font-size: 14px;
   font-weight: 400;
@@ -366,6 +367,16 @@
   width: calc(31.91% - 45.98px);
   padding: 315px 12.95px 32.98px 33.03px;
   position: relative;
+}
+.process-metamo-derna-three {
+  width: calc(100% - 5.6843418860808e-14px);
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 36px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  text-transform: uppercase;
 }
 .relative-wrapper-two {
   align-self: stretch;
@@ -390,16 +401,6 @@
   position: absolute;
   left: calc(50% - 300px / 2);
   top: 0.02px;
-}
-.process-metamo-derna-three {
-  width: calc(100% - 2.8421709430404e-14px);
-  font-family: "Montserrat";
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 36px;
-  color: rgba(0, 0, 0, 1);
-  text-align: center;
-  text-transform: uppercase;
 }
 .frame-fifteen {
   width: calc(31.91% - 45.98px);
@@ -758,7 +759,7 @@
 .frame-thirty-two {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/8d7e3a1d-12e4-4133-b4db-48baa999c1fe.png"),
+  background: url("https://static.overlay-tech.com/assets/0acb9659-5465-4ec4-8ecf-96039efb1482.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
