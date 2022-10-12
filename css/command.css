@@ -95,7 +95,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/eed40201-a9cd-4015-afc5-97be50fa97a3.png");
+  background-image: url("https://static.overlay-tech.com/assets/3168f315-9d34-4ffe-a491-7f8cca79dbc3.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -382,7 +382,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.relative-wrapper-three {
+.relative-wrapper-two {
   align-self: stretch;
   position: relative;
 }
@@ -482,8 +482,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/d8fba97d-c9d3-464d-8ea8-924f18716979.png"),
-    url("https://static.overlay-tech.com/assets/b762e43b-29f7-4eb8-93b9-3b7c8479438e.png");
+  background: url("https://static.overlay-tech.com/assets/98725fbd-6fe6-41d5-96ae-728c3fcd8b6a.png"),
+    url("https://static.overlay-tech.com/assets/24885e01-e71e-4078-b723-8d056da2e032.png");
   margin-bottom: 20px;
 }
 .dzhon-dou {
@@ -511,8 +511,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/33623042-a72b-4aee-ad1c-50547c0603ea.png"),
-    url("https://static.overlay-tech.com/assets/f8ed19cc-cbde-4c07-8a24-7e62dc200e6e.png");
+  background: url("https://static.overlay-tech.com/assets/f1a6e954-2639-4eb3-8493-b7b5abb76408.png"),
+    url("https://static.overlay-tech.com/assets/33f91e33-6f72-44d1-8b6e-0f6c9729b1bc.png");
   margin-bottom: 20px;
 }
 .dzhejn-dou {
@@ -540,8 +540,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/cf2535be-15a8-4a4c-bc90-c896ed332cb2.png"),
-    url("https://static.overlay-tech.com/assets/15cdc8eb-918c-4f77-8376-7d16100d311b.png");
+  background: url("https://static.overlay-tech.com/assets/e284db5d-e48d-4330-b2d7-7e5e44f3039f.png"),
+    url("https://static.overlay-tech.com/assets/e6aa6f35-70f2-4811-9400-05047171a8f8.png");
   margin-bottom: 20px;
 }
 .denni-devri {
@@ -569,8 +569,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/5d4b59e4-bc65-41ff-a384-8091451971ed.png"),
-    url("https://static.overlay-tech.com/assets/a586dbe4-de4a-40b3-b21f-8a0f4c9887ec.png");
+  background: url("https://static.overlay-tech.com/assets/1d4a5dc2-592a-44e7-80e7-aeaea47b2ef8.png"),
+    url("https://static.overlay-tech.com/assets/d73ea031-4c02-4414-9745-a621a9f02a69.png");
   margin-bottom: 20px;
 }
 .imjarek {
@@ -714,7 +714,7 @@
   left: calc(50% - 309px / 2);
   top: -2px;
 }
-.relative-wrapper-two {
+.relative-wrapper-one {
   display: flex;
   align-items: flex-start;
   position: absolute;
@@ -792,116 +792,18 @@
 .podval {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/a6c6df9e-1301-4ed5-8edd-4b5883cc811a.png");
+  background-image: url("https://static.overlay-tech.com/assets/e7e4f4a0-c74c-4a72-bca4-d0fab98a35ab.png");
   padding: 156px 159px 101px 187px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-thirty-one {
-  padding: 0 73.02px 22px 373px;
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
+.frame-twenty-nine {
+  padding: 0 53px 22px 729px;
   flex: 1;
-  height: 238px;
   position: relative;
-}
-.frame-twenty-seven {
-  width: calc(100% - 452.98px);
-  height: calc(100% - 134px);
-  padding: 20.05px 63px 102.95px 62px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  position: relative;
-}
-.image-seven {
-  width: 70px;
-  height: 50px;
-  margin-bottom: 34px;
-  margin-left: 63px;
-}
-.napishi-nam {
-  width: 195px;
-  font-family: "Montserrat";
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  text-transform: uppercase;
 }
 .frame-twenty-six {
-  padding: 10.05px 13.98px 14.95px 12.02px;
-  display: flex;
-  align-items: flex-start;
-  position: absolute;
-  left: calc(50% - 177px / 2);
-  bottom: -0.05px;
-}
-.helgter-ru-tg {
-  width: 177px;
-  text-align: center;
-  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 700;
-  line-height: 22px;
-  color: rgba(255, 255, 255, 1);
-}
-.helgter-ru-tg-emphasis-1 {
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(255, 255, 255, 1);
-}
-.frame-twenty-nine {
-  width: calc(100% - 452.98px);
-  padding: 20.05px 62.95px 44.01px 62.03px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  align-self: stretch;
-}
-.image-eight {
-  width: 68px;
-  height: 56px;
-  margin-bottom: 12px;
-  margin-left: 64px;
-}
-.zajdi-na-stranichku {
-  max-width: 195px;
-  font-family: "Montserrat";
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  text-transform: uppercase;
-  margin-bottom: 46.95px;
-}
-.relative-wrapper-one {
-  margin-left: 50.97px;
-  position: relative;
-}
-.frame-twenty-eight {
-  padding: 0 23px;
-  position: relative;
-}
-.vkontakte {
-  width: 77.24px;
-  height: 18.99px;
-}
-.image-8 {
-  width: 18.66%;
-  height: 23px;
-  position: absolute;
-  left: -12px;
-  top: calc(50% - 23px / 2);
-}
-.frame-thirty {
   width: calc(100% - 921px);
   height: calc(100% - 63.05px);
   padding: 13.05px 70px 28px 69px;
@@ -912,13 +814,13 @@
   left: 53px;
   top: -5.95px;
 }
-.image-nine {
+.image-seven {
   width: 44px;
   height: 65px;
   margin-bottom: 20.95px;
 }
-.vstretimsja-lichno {
-  max-width: 173px;
+.prihodi-v-gosti {
+  width: 173px;
   font-family: "Montserrat";
   font-size: 16px;
   font-weight: 400;
@@ -926,10 +828,50 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 5px;
+  margin-bottom: 25px;
 }
 .rossija-moskva-vadkovskij-pereulok-3a {
   max-width: 158px;
+  font-family: "Vollkorn";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-twenty-seven {
+  width: calc(100% - 921px);
+  height: calc(100% - 85.05px);
+  padding: 13.05px 70px 50px 69px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  left: 391px;
+  top: -5.95px;
+}
+.frame-twenty-eight {
+  width: calc(100% - 83px);
+  height: calc(100% - 85.05px);
+  padding: 13.05px 42px 72px 41px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.zajdi-na-stranichku {
+  width: 229px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+.vk {
+  width: 158px;
   font-family: "Vollkorn";
   font-size: 17px;
   font-weight: 400;
