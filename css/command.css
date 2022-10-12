@@ -18,26 +18,27 @@
   flex: 1;
 }
 .logotipmetamodern {
-  width: calc(22.15% - 3px);
+  width: calc(22.15% - 22.53px);
   margin-right: 361.47px;
-  padding: 8px 0 9px 3px;
+  padding: 8px 19.53px 9px 3px;
   display: flex;
   align-items: center;
 }
 .image {
   width: 57px;
   height: 53px;
-  margin-right: 11.85px;
+  margin-right: 5.7px;
 }
 .metamo-dern {
   height: 38px;
-  width: 67.56%;
+  width: 130px;
   font-family: "Oswald";
   font-size: 22px;
   font-weight: 400;
   line-height: 38px;
   color: rgba(245, 245, 245, 1);
   display: flex;
+  text-align: center;
   text-transform: uppercase;
 }
 .ssylki {
@@ -97,22 +98,26 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/1564b782-3c0a-45e6-8c0f-fbfc9807d946.png");
+  background-image: url("https://static.overlay-tech.com/assets/5d828892-42d6-481e-93b6-00c9393ea67e.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
 .deviz {
-  width: calc(98.45% - 158px);
+  width: calc(100% - 263px);
+  height: calc(100% - 54px);
   background-color: rgba(0, 0, 0, 0.43);
-  padding: 57px 79px 6px;
-  position: relative;
+  padding: 31px 126px 13px 127px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   border: 5px solid rgba(255, 255, 255, 1);
   backdrop-filter: blur(30px);
 }
 .metamo-dern-two {
-  width: 672px;
+  width: 99.74%;
+  height: 42.64%;
   font-family: "Montserrat";
   font-size: 44px;
   font-weight: 400;
@@ -120,34 +125,31 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  position: absolute;
-  left: calc(50% - 672px / 2);
-  top: 2px;
+  margin-bottom: 19px;
 }
 .dvizhenie-ra-di-dvizhenija {
-  height: 110px;
-  width: 100%;
+  height: 42.64%;
   font-family: "Montserrat";
-  font-size: 43px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 55px;
   color: rgba(255, 255, 255, 1);
-  display: flex;
+  align-self: stretch;
   text-align: center;
   text-transform: uppercase;
 }
 .opisanie {
   background-color: rgba(205, 248, 242, 1);
   margin-bottom: 102px;
-  padding: 32px 212px 29px;
+  padding: 32px 212px 14px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
 .frame-five {
-  padding: 28px 38px 0;
+  padding: 21px 38px 22px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   flex: 1;
 }
 .metamodern-jeto-samyj-populjarnyj-koncep {
@@ -186,14 +188,13 @@
   align-items: center;
 }
 .frame-six {
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/cac50509-d1f3-4606-a225-df65c524af66.png");
+  background-image: url("https://static.overlay-tech.com/assets/97d69f62-29e5-4954-bc1c-b094e328f3a1.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
   align-items: center;
-  align-self: stretch;
 }
 .process1 {
   width: 127px;
@@ -228,10 +229,9 @@
   align-items: center;
 }
 .frame-seven {
-  width: calc(100% - 173px);
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/437ac164-2d59-47a3-8678-e7b15f463c0a.png");
+  background-image: url("https://static.overlay-tech.com/assets/4be71c4a-6585-4f5c-bae9-edaf0630ca88.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -265,10 +265,9 @@
   align-items: center;
 }
 .frame-eight {
-  width: calc(99.67% - 173px);
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/136b6eb2-b510-4ef4-8b42-fd77bd4c0994.png");
+  background-image: url("https://static.overlay-tech.com/assets/19a296c1-c6e8-4d3d-9490-436444451e74.png");
   margin-bottom: 28px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -313,7 +312,7 @@
 .nashi-proekty-two {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/c58356b7-fd36-409a-9d72-44b17a7ab721.png");
+  background-image: url("https://static.overlay-tech.com/assets/523b7bd5-96ef-42fb-a44a-7b0744293623.png");
   margin-bottom: 82px;
   padding: 191px 189px 71px 173px;
   display: flex;
@@ -452,65 +451,28 @@
   left: calc(50% - 230px / 2);
   top: -51px;
 }
-.komanda {
-  width: calc(73.47% - 98px);
-  margin-bottom: 216px;
+.relative-wrapper-two {
+  width: 73.47%;
+  margin-bottom: 18px;
   margin-left: 193px;
-  padding: 0 51px 20px 47px;
-  display: flex;
-  align-items: flex-start;
+  position: relative;
+}
+.komanda {
+  width: calc(100% - 98px);
+  padding: 0 51px 218px 47px;
+  position: relative;
 }
 .portrety-i-podpisi {
-  padding: 31px 0 0;
-  display: flex;
-  align-items: flex-start;
-  flex: 1;
-}
-.dzhon {
-  width: calc(25% - 20px);
-  margin-top: 88px;
-  padding: 0.05px 10px 52.95px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.flex-wrapper-four {
-  width: 220px;
-  height: 220px;
-  background-size: 100% 100%;
-  background-position: center;
-  background: url("https://static.overlay-tech.com/assets/31de564c-20ee-40fa-930b-46a6bd2d2746.png"),
-    url("https://static.overlay-tech.com/assets/43c41c07-0f44-4c77-bd12-cfd95e77ef70.png");
-  margin-bottom: 20px;
-}
-.dzhon-dou {
-  width: 131px;
-  font-family: "Tahoma";
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  text-transform: uppercase;
-  margin-bottom: 6px;
-}
-.osnovatel {
-  width: 86px;
-  font-family: "Calibri";
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-}
-.flex-wrapper-five {
+  width: calc(100% - 470px);
+  padding: 31px 230px 0 240px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  position: relative;
 }
 .nasha-komanda {
   height: 40px;
-  width: 68.13%;
+  width: 66.73%;
   display: flex;
   text-align: center;
   margin-bottom: 48px;
@@ -535,24 +497,27 @@
   line-height: 36px;
   color: rgba(255, 255, 255, 1);
 }
-.flex-wrapper-six {
+.flex-wrapper-five {
   display: flex;
   align-items: flex-start;
 }
 .dzhejn {
-  width: calc(50% - 20px);
+  width: calc(48.98% - 20px);
   padding: 0.05px 10px 52.95px;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.dzhejn:not(:last-of-type) {
+  margin-right: 10px;
 }
 .flex-wrapper-three {
   width: 220px;
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/eba88b96-9cb5-42b1-bf6a-55a5fd07a775.png"),
-    url("https://static.overlay-tech.com/assets/70810b32-6b1e-4312-9f7c-1f5678a87155.png");
+  background: url("https://static.overlay-tech.com/assets/eef20a5d-30b7-430d-988a-f041ced33121.png"),
+    url("https://static.overlay-tech.com/assets/dcb89176-f65f-4ab3-81cf-29b037622703.png");
   margin-bottom: 20px;
 }
 .dzhejn-dou {
@@ -580,8 +545,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/6e2b3542-bcca-4bea-b1c9-eee058be3cfb.png"),
-    url("https://static.overlay-tech.com/assets/cc12a418-bab4-4ec5-8bcd-3f973dd09713.png");
+  background: url("https://static.overlay-tech.com/assets/b960e70b-7105-4b39-ae29-9f6ab8c36b64.png"),
+    url("https://static.overlay-tech.com/assets/b630d133-9a94-4299-930b-a73f68f12967.png");
   margin-bottom: 20px;
 }
 .denni-devri {
@@ -604,13 +569,23 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
+.imjarek-two {
+  width: calc(25% - 20px);
+  padding: 0.05px 10px 52.95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  right: -20px;
+  bottom: 0;
+}
 .flex-wrapper-one {
   width: 220px;
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/71794b0e-011c-4078-a29d-a27e6f28c1c8.png"),
-    url("https://static.overlay-tech.com/assets/c549c7f3-30a1-47b7-9972-f6c7ab2fb998.png");
+  background: url("https://static.overlay-tech.com/assets/b9ea2159-0e23-4909-87cc-41102dbb4025.png"),
+    url("https://static.overlay-tech.com/assets/91aaebe9-679e-49ab-944b-06ff80863a95.png");
   margin-bottom: 20px;
 }
 .imjarek {
@@ -633,11 +608,87 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
+.dzhon {
+  width: calc(25% - 20px);
+  padding: 0.05px 10px 52.95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  left: -20px;
+  bottom: 0;
+}
+.flex-wrapper-four {
+  width: 220px;
+  height: 220px;
+  background-size: 100% 100%;
+  background-position: center;
+  background: url("https://static.overlay-tech.com/assets/4bee3d2f-3996-47c4-b22f-a773ea8417f0.png"),
+    url("https://static.overlay-tech.com/assets/22a29ff8-f7e9-4f16-8bec-da052ccf9a9c.png");
+  margin-bottom: 20px;
+}
+.dzhon-dou {
+  width: 131px;
+  font-family: "Tahoma";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.osnovatel {
+  width: 86px;
+  font-family: "Calibri";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+}
+.deviz-two {
+  width: calc(100% - 677px);
+  height: calc(100% - 563px);
+  background-color: rgba(0, 0, 0, 0.43);
+  padding: 44px 126px 16px 127px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  left: 208px;
+  bottom: 35px;
+  border: 5px solid rgba(255, 255, 255, 1);
+  backdrop-filter: blur(30px);
+}
+.metamo-dern-three {
+  width: 99.74%;
+  height: 48.67%;
+  font-family: "Montserrat";
+  font-size: 44px;
+  font-weight: 400;
+  line-height: 55px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+}
+.dvizhenie-ra-di-dvizhenija-two {
+  height: 48.67%;
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 55px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  text-align: center;
+  text-transform: uppercase;
+}
 .podval {
   height: calc(8.9% - 53px);
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/08ced653-186b-4a4f-9074-7dd49f5c6011.png");
+  background-image: url("https://static.overlay-tech.com/assets/a940033e-057f-4e6a-91a5-3e6ac399c649.png");
   padding: 25px 193px 28px 176px;
   display: flex;
   align-items: flex-start;
