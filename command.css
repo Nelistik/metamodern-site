@@ -1,0 +1,255 @@
+.komanda-two {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.chjolka {
+  background-color: rgba(0, 0, 0, 1);
+  margin-bottom: 155px;
+  padding: 18px 250px;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+}
+.frame-seven {
+  display: flex;
+  align-items: flex-start;
+  flex: 1;
+}
+.frame {
+  width: calc(16.49% - 90px);
+  margin-right: 427px;
+  padding: 0 90px 0 0;
+  position: relative;
+}
+.image {
+  width: 100%;
+  height: 70px;
+}
+.metamo-dern {
+  width: 89.03%;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+  position: absolute;
+  right: -66px;
+  top: 13px;
+  font-family: var(--oswald-22-regular-family);
+  font-size: var(--oswald-22-regular-size);
+  font-weight: var(--oswald-22-regular-weight);
+  line-height: var(--oswald-22-regular-line-height);
+}
+.frame-six {
+  width: calc(38.09% - 42px);
+  padding: 23px 0 0 42px;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-two {
+  width: 18.99%;
+  margin-right: 26px;
+  position: relative;
+}
+.process {
+  height: 22px;
+  width: 125%;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-family: var(--montserrat-12-bold-family);
+  font-size: var(--montserrat-12-bold-size);
+  font-weight: var(--montserrat-12-bold-weight);
+  line-height: var(--montserrat-12-bold-line-height);
+}
+.frame-three {
+  width: 20.89%;
+  margin-right: 39px;
+  padding: 0 0 2px;
+  display: flex;
+  align-items: center;
+}
+.proekty {
+  color: rgba(255, 255, 255, 1);
+  flex: 1;
+  text-transform: uppercase;
+  font-family: var(--montserrat-12-bold-family);
+  font-size: var(--montserrat-12-bold-size);
+  font-weight: var(--montserrat-12-bold-weight);
+  line-height: var(--montserrat-12-bold-line-height);
+}
+.frame-four {
+  width: 16.14%;
+  margin-right: 13px;
+  position: relative;
+}
+.komanda {
+  width: 191.43%;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+  position: absolute;
+  left: -23.31px;
+  top: 0;
+  font-family: var(--montserrat-12-bold-family);
+  font-size: var(--montserrat-12-bold-size);
+  font-weight: var(--montserrat-12-bold-weight);
+  line-height: var(--montserrat-12-bold-line-height);
+}
+.frame-five {
+  width: 19.3%;
+  position: relative;
+}
+.kontakty {
+  width: 147.54%;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-family: var(--montserrat-12-bold-family);
+  font-size: var(--montserrat-12-bold-size);
+  font-weight: var(--montserrat-12-bold-weight);
+  line-height: var(--montserrat-12-bold-line-height);
+}
+.obschij-frejm {
+  width: calc(65.28% - 685px);
+  margin-bottom: 155px;
+  margin-left: 265px;
+  padding: 0 381px 366px 304px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.image-3 {
+  width: 126px;
+  height: 112px;
+}
+.flex-wrapper-two {
+  margin-top: 20px;
+  position: relative;
+}
+.rectangle {
+  width: 62.02%;
+  height: 2px;
+  background-color: rgba(0, 0, 0, 0.09);
+  position: absolute;
+  left: 0;
+  top: 54.05px;
+}
+.nasha-komanda {
+  max-width: 129px;
+  color: rgba(51, 51, 51, 1);
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  font-family: var(--montserrat-23-regular-family);
+  font-size: var(--montserrat-23-regular-size);
+  font-weight: var(--montserrat-23-regular-weight);
+  line-height: var(--montserrat-23-regular-line-height);
+}
+.vse-frejmy {
+  position: absolute;
+  left: -10px;
+  top: 112px;
+}
+.podval {
+  background-color: rgba(0, 0, 0, 1);
+  padding: 18px 213px 18px 287px;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+}
+.frejm-nadpisej-podvala {
+  padding: 0 666px 0 119px;
+  flex: 1;
+  position: relative;
+}
+.logotip {
+  width: 6.91%;
+  height: 70px;
+  position: absolute;
+  left: 697px;
+  top: 5px;
+}
+.frejm-vk {
+  width: calc(100% - 29.76px);
+  padding: 21px 18.76px 20px 11px;
+  display: flex;
+  align-items: center;
+}
+.vk-ikonka {
+  width: 33px;
+  height: 29px;
+  margin-right: 15px;
+}
+.vkontakte {
+  width: 61.67%;
+  height: 65.48%;
+}
+.relative-wrapper-one {
+  width: 21.6%;
+  height: 98.57%;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 470px;
+  top: 12px;
+}
+.frejm-pochta {
+  padding: 11.05px 45.98px 13.95px 45.02px;
+  flex: 1;
+  align-self: stretch;
+  position: relative;
+}
+.helgter-ru {
+  width: 177px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: calc(50% - 177px / 2);
+  top: 10.05px;
+  font-family: var(--vollkorn-17-bold-family);
+  font-size: var(--vollkorn-17-bold-size);
+  font-weight: var(--vollkorn-17-bold-weight);
+  line-height: var(--vollkorn-17-bold-line-height);
+}
+.tg {
+  width: 112px;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  position: relative;
+  color: rgba(255, 255, 255, 1);
+  font-family: var(--vollkorn-17-bold-family);
+  font-size: var(--vollkorn-17-bold-size);
+  font-weight: var(--vollkorn-17-bold-weight);
+  line-height: var(--vollkorn-17-bold-line-height);
+}
+.tg-emphasis-0 {
+  color: rgba(255, 255, 255, 1);
+  font-family: var(--vollkorn-17-regular-family);
+  font-size: var(--vollkorn-17-regular-size);
+  font-weight: var(--vollkorn-17-regular-weight);
+  line-height: var(--vollkorn-17-regular-line-height);
+}
+.frejm-adresa {
+  width: 88.18%;
+  position: absolute;
+  left: -172px;
+  top: -5px;
+}
+.rossija-moskva-vadkovskij-pereulok-3a {
+  max-width: 158px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: calc(50% - 158px / 2);
+  top: 2px;
+  font-family: var(--vollkorn-17-regular-family);
+  font-size: var(--vollkorn-17-regular-size);
+  font-weight: var(--vollkorn-17-regular-weight);
+  line-height: var(--vollkorn-17-regular-line-height);
+}
