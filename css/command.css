@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/cf4b73c1-e59f-4c62-95c2-b9478e35975d.png");
+  background-image: url("https://static.overlay-tech.com/assets/f4eae688-d1b3-4f06-b70b-cd0788140d29.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -115,7 +115,7 @@
   font-size: 44px;
   font-weight: 400;
   line-height: 55px;
-  color: rgba(255, 255, 255, 1);
+  color: var(--aquamarine);
   text-align: center;
   text-transform: uppercase;
   position: absolute;
@@ -169,7 +169,7 @@
   align-items: center;
   position: relative;
 }
-.frame-twelve {
+.frame-thirteen {
   width: calc(102.13% - 0.05px);
   padding: 0 0.05px 0 0;
   display: flex;
@@ -186,7 +186,7 @@
   align-items: center;
 }
 .frame-seven {
-  background-color: rgba(245, 245, 245, 1);
+  background-color: rgba(255, 255, 255, 1);
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -197,13 +197,13 @@
   width: 127px;
   height: 119px;
 }
-.set-a-target {
-  width: 119px;
+.rezul-tat-vtorichen {
+  width: 239px;
   font-family: "Montserrat";
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -214,7 +214,7 @@
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
 }
 .frame-ten {
@@ -227,19 +227,19 @@
 }
 .frame-nine {
   width: calc(100% - 173px);
-  background-color: rgba(245, 245, 245, 1);
+  background-color: rgba(255, 255, 255, 1);
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
   align-items: center;
 }
-.design-a-solution {
-  width: 173px;
+.process-pervichen {
+  width: 227px;
   font-family: "Montserrat";
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -250,26 +250,34 @@
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
 }
-.frame-eleven {
-  width: calc(33.33% - 19.98px);
-  padding: 0 9.95px 5px 10.03px;
+.frame-twelve {
+  width: calc(33.33% - 18.98px);
+  padding: 0 8.95px 5px 10.03px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.track-the-progress {
-  width: 193px;
+.frame-eleven {
+  width: calc(99.67% - 173px);
+  background-color: rgba(255, 255, 255, 1);
+  margin-bottom: 28px;
+  padding: 50px 87px 50px 86px;
+  display: flex;
+  align-items: center;
+}
+.sredstva-opravdyvajut-rezul-tat {
+  max-width: 301px;
   font-family: "Montserrat";
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .aenean-faucibus-nibh-et-justo-cursus-id {
   max-width: 300px;
@@ -277,7 +285,7 @@
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
 }
 .how-we-make-brands-thrive {
@@ -286,7 +294,7 @@
   font-size: 23px;
   font-weight: 400;
   line-height: 36px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
   margin-bottom: 28px;
@@ -294,7 +302,7 @@
 .rectangle {
   width: 20.3%;
   height: 2px;
-  background-color: rgba(0, 0, 0, 0.09);
+  background-color: rgba(255, 255, 255, 1);
 }
 .nashi-proekty {
   background-color: rgba(245, 245, 245, 1);
@@ -304,7 +312,7 @@
   align-items: center;
   align-self: stretch;
 }
-.frame-twenty-seven {
+.frame-twenty-eight {
   padding: 10px 355px 1254.95px;
   display: flex;
   flex-direction: column;
@@ -312,7 +320,7 @@
   flex: 1;
   position: relative;
 }
-.frame-eighteen {
+.frame-nineteen {
   width: calc(102.13% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -321,14 +329,14 @@
   left: -10px;
   top: 119px;
 }
-.frame-fourteen {
+.frame-fifteen {
   width: 31.91%;
   position: relative;
 }
-.frame-fourteen:not(:last-of-type) {
+.frame-fifteen:not(:last-of-type) {
   margin-right: 20px;
 }
-.frame-thirteen {
+.frame-fourteen {
   width: calc(100.01% - 216px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 108px 21px;
@@ -364,12 +372,12 @@
   left: calc(50% - 300px / 2);
   top: calc(50% - 300px / 2);
 }
-.frame-sixteen {
+.frame-seventeen {
   width: 31.91%;
   margin-right: 20.01px;
   position: relative;
 }
-.frame-fifteen {
+.frame-sixteen {
   width: calc(100.01% - 153px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 77px 21px 76px;
@@ -398,7 +406,7 @@
   text-transform: uppercase;
   margin-left: 51px;
 }
-.frame-seventeen {
+.frame-eighteen {
   width: calc(100.01% - 209px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 105px 21px 104px;
@@ -451,14 +459,14 @@
   left: -10px;
   top: 522.98px;
 }
-.frame-twenty-two {
+.frame-twenty-three {
   padding: 0 10.05px 20px 10px;
   display: flex;
   align-items: flex-start;
   flex: 1;
   position: relative;
 }
-.frame-nineteen {
+.frame-twenty {
   width: calc(100.01% - 216px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 108px 21px;
@@ -477,7 +485,7 @@
   text-transform: uppercase;
   margin-left: 12px;
 }
-.frame-twenty {
+.frame-twenty-one {
   width: calc(100.01% - 239px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 120px 21px 119px;
@@ -506,7 +514,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-one {
+.frame-twenty-two {
   width: calc(100.01% - 240px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 120px 21px;
@@ -535,7 +543,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-six {
+.frame-twenty-seven {
   width: calc(100% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -544,7 +552,7 @@
   left: 0;
   bottom: -396.02px;
 }
-.frame-twenty-three {
+.frame-twenty-four {
   width: calc(100.01% - 244px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 122px 21px;
@@ -573,7 +581,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-four {
+.frame-twenty-five {
   width: calc(100.01% - 206px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 103px 21px;
@@ -602,7 +610,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-five {
+.frame-twenty-six {
   width: calc(100.01% - 229px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 115px 21px 114px;
@@ -760,7 +768,7 @@
   align-items: center;
   align-self: stretch;
 }
-.frame-thirty-three {
+.frame-thirty-four {
   padding: 0.05px 23.5px 0;
   display: flex;
   flex-direction: column;
@@ -772,7 +780,7 @@
   height: 16.62%;
   margin-bottom: 36.95px;
 }
-.frame-thirty-two {
+.frame-thirty-three {
   overflow: hidden;
   padding: 30px 446.5px 29px 0;
   align-self: stretch;
@@ -793,7 +801,7 @@
   left: calc(50% - 2px / 2);
   top: -0.05px;
 }
-.frame-twenty-eight {
+.frame-twenty-nine {
   padding: 88.05px 191px 29.95px 191.5px;
   display: flex;
   align-items: flex-start;
@@ -830,7 +838,7 @@
   left: calc(50% - 95px / 2);
   bottom: -0.05px;
 }
-.frame-twenty-nine {
+.frame-thirty {
   padding: 121px 159px 0 160px;
   display: flex;
   flex-direction: column;
@@ -875,7 +883,7 @@
   left: calc(50% - 2px / 2);
   top: 0;
 }
-.frame-thirty {
+.frame-thirty-one {
   padding: 121.05px 191px 29.95px 191.5px;
   position: relative;
 }
@@ -904,7 +912,7 @@
   left: calc(50% - 181px / 2);
   bottom: -0.05px;
 }
-.frame-thirty-one {
+.frame-thirty-two {
   padding: 121px 164px 0 166px;
   display: flex;
   flex-direction: column;
@@ -935,17 +943,17 @@
   left: calc(50% - 340px / 2);
   top: -2px;
 }
-.frame-forty {
+.frame-forty-one {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/2c1b8cd1-359c-4fdc-b749-926904df2556.png"),
+  background: url("https://static.overlay-tech.com/assets/45cff7ef-a8ac-4810-8156-f9f0269c720b.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
   align-items: center;
   align-self: stretch;
 }
-.frame-thirty-nine {
+.frame-forty {
   padding: 10.05px 347px 302.95px 348px;
   display: flex;
   flex-direction: column;
@@ -953,7 +961,7 @@
   flex: 1;
   position: relative;
 }
-.frame-thirty-four {
+.frame-thirty-five {
   width: calc(33.33% - 141.98px);
   padding: 13.05px 70.98px 5.95px 71px;
   display: flex;
@@ -964,6 +972,17 @@
   width: 44px;
   height: 65px;
   margin-bottom: 26px;
+}
+.meet-us-in-person {
+  width: 173px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: rgba(51, 51, 51, 1);
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 20px;
 }
 .num-8776-juniper-street {
   width: 144px;
@@ -1001,7 +1020,7 @@
   color: rgba(33, 33, 33, 1);
   text-align: center;
 }
-.frame-thirty-six {
+.frame-thirty-seven {
   width: calc(33.33% - 20px);
   margin-right: 0.01px;
   padding: 20.05px 10px 5px;
@@ -1025,7 +1044,7 @@
   text-transform: uppercase;
   margin-bottom: 20.95px;
 }
-.frame-thirty-five {
+.frame-thirty-six {
   padding: 21.05px 61.96px 0.95px 61.02px;
   display: flex;
   flex-direction: column;
@@ -1073,7 +1092,7 @@
   left: calc(50% - 65px / 2);
   top: -0.95px;
 }
-.frame-thirty-eight {
+.frame-thirty-nine {
   width: calc(33.33% - 96.03px);
   padding: 20.05px 10px 11px 86.03px;
   display: flex;
@@ -1097,13 +1116,13 @@
   text-transform: uppercase;
   margin-bottom: 20.95px;
 }
-.frame-thirty-seven {
+.frame-thirty-eight {
   width: calc(89.75% - 187px);
   margin-left: 22.95px;
   padding: 0.05px 186.95px 5.95px 0.05px;
   position: relative;
 }
-.frame-thirty-seven:not(:last-of-type) {
+.frame-thirty-eight:not(:last-of-type) {
   margin-bottom: 11px;
 }
 .vector-two {
