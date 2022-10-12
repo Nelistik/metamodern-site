@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/f4eae688-d1b3-4f06-b70b-cd0788140d29.png");
+  background-image: url("https://static.overlay-tech.com/assets/4dd16ef5-af99-4140-b41a-18056adb0e28.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -115,7 +115,7 @@
   font-size: 44px;
   font-weight: 400;
   line-height: 55px;
-  color: rgba(90, 245, 255, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
   position: absolute;
@@ -946,7 +946,7 @@
 .frame-forty-one {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/45cff7ef-a8ac-4810-8156-f9f0269c720b.png"),
+  background: url("https://static.overlay-tech.com/assets/f6c1bc3b-4d0f-4fba-b4d2-93765845d446.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
