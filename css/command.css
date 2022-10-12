@@ -95,7 +95,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/d6415b3e-efbe-458c-a5a4-4077ccaeeb9f.png");
+  background-image: url("https://static.overlay-tech.com/assets/af17b7f9-b153-408f-9ccc-21eae509815d.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -477,12 +477,16 @@
   flex-direction: column;
   align-items: center;
 }
-.dzhon-dou {
+.flex-wrapper-five {
   width: 220px;
   height: 220px;
+  background-size: 100% 100%;
+  background-position: center;
+  background: url("https://static.overlay-tech.com/assets/bd1afda1-6cde-47e7-8bb2-0607a8d51788.png"),
+    url("https://static.overlay-tech.com/assets/82fdaacf-3809-4282-b776-e35884779b55.png");
   margin-bottom: 20px;
 }
-.dzhon-dou-two {
+.dzhon-dou {
   width: 131px;
   font-family: "Tahoma";
   font-size: 16px;
@@ -501,6 +505,15 @@
   line-height: 20px;
   color: rgba(255, 255, 255, 1);
   text-align: center;
+}
+.flex-wrapper-four {
+  width: 220px;
+  height: 220px;
+  background-size: 100% 100%;
+  background-position: center;
+  background: url("https://static.overlay-tech.com/assets/097a782d-ecd3-4e1a-9590-a8b73838d452.png"),
+    url("https://static.overlay-tech.com/assets/be803b0a-5495-41c9-879a-6ce4fab8631d.png");
+  margin-bottom: 20px;
 }
 .dzhejn-dou {
   width: 114px;
@@ -522,6 +535,15 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
+.flex-wrapper-three {
+  width: 220px;
+  height: 220px;
+  background-size: 100% 100%;
+  background-position: center;
+  background: url("https://static.overlay-tech.com/assets/b836a7d0-6a2d-49eb-ad91-149bb93ec7d0.png"),
+    url("https://static.overlay-tech.com/assets/75919834-98b6-46e6-8044-77816d633f1e.png");
+  margin-bottom: 20px;
+}
 .denni-devri {
   width: 121px;
   font-family: "Tahoma";
@@ -541,6 +563,15 @@
   line-height: 20px;
   color: rgba(255, 255, 255, 1);
   text-align: center;
+}
+.flex-wrapper-two {
+  width: 220px;
+  height: 220px;
+  background-size: 100% 100%;
+  background-position: center;
+  background: url("https://static.overlay-tech.com/assets/96889434-a2c3-4d48-8f0e-530c756818dc.png"),
+    url("https://static.overlay-tech.com/assets/18a263dd-a125-4807-9cd6-8fbdf0062476.png");
+  margin-bottom: 20px;
 }
 .imjarek {
   width: 93px;
@@ -765,7 +796,7 @@
 .frame-thirty-two {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/78358ad9-2b74-423a-af22-128ec75c029a.png"),
+  background: url("https://static.overlay-tech.com/assets/7d768780-8ea3-4aa7-af13-8e4f24f3d8c2.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
