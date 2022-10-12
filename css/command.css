@@ -14,12 +14,12 @@
 .tekst-chjolki {
   padding: 0 36px 0 30.3px;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   flex: 1;
 }
 .logotipmetamodern {
   width: calc(22.15% - 22.53px);
-  margin-right: 361.47px;
+  margin-right: 433.47px;
   padding: 8px 19.53px 9px 3px;
   display: flex;
   align-items: center;
@@ -42,63 +42,42 @@
   text-transform: uppercase;
 }
 .ssylki {
-  width: calc(40.65% - 61.04px);
-  padding: 27px 14px 20px 47.04px;
+  width: calc(33.24% - 67px);
+  margin-top: 12px;
+  padding: 16px 29px 13px 38px;
   display: flex;
   align-items: flex-start;
 }
-.frame {
-  width: 18.52%;
-  margin-right: 35.05px;
-  padding: 0 0 2px;
-  display: flex;
-  align-items: center;
-}
-.process {
+.git {
+  height: 20px;
+  width: 26.95%;
   font-family: "Montserrat";
   font-size: 12px;
   font-weight: 400;
   line-height: 20px;
   color: rgba(255, 255, 255, 1);
-  flex: 1;
   display: flex;
   text-transform: uppercase;
 }
-.frame-two {
-  width: 20.37%;
-  margin-right: 35.05px;
-  padding: 0 0 2px;
-  display: flex;
-  align-items: center;
+.git:not(:last-of-type) {
+  margin-right: 49px;
 }
-.frame-three {
-  width: 10.8%;
-  margin-right: 35.04px;
-  padding: 0 0 2px;
-  display: flex;
-  align-items: center;
-}
-.frame-four {
-  width: 18.83%;
-  padding: 0 0 2px;
-  display: flex;
-  align-items: center;
-}
-.contact {
+.komanda {
+  height: 20px;
+  width: 18.75%;
   font-family: "Montserrat";
   font-size: 12px;
   font-weight: 400;
   line-height: 20px;
   color: rgba(255, 255, 255, 1);
-  flex: 1;
   display: flex;
   text-transform: uppercase;
-  text-decoration: underline;
+  margin-right: 21px;
 }
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/5d828892-42d6-481e-93b6-00c9393ea67e.png");
+  background-image: url("https://static.overlay-tech.com/assets/0f5ac545-3adf-446a-b33b-1b810386aac5.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -146,7 +125,7 @@
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-five {
+.frame {
   padding: 21px 38px 22px;
   display: flex;
   align-items: center;
@@ -187,10 +166,10 @@
   flex-direction: column;
   align-items: center;
 }
-.frame-six {
+.frame-two {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/97d69f62-29e5-4954-bc1c-b094e328f3a1.png");
+  background-image: url("https://static.overlay-tech.com/assets/c5e51a39-9fac-43ca-9c5e-66be9c467c28.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -228,10 +207,10 @@
   flex-direction: column;
   align-items: center;
 }
-.frame-seven {
+.frame-three {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/4be71c4a-6585-4f5c-bae9-edaf0630ca88.png");
+  background-image: url("https://static.overlay-tech.com/assets/2cb3b3ea-bb9c-4a82-a905-79c3552abe6d.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -264,10 +243,10 @@
   flex-direction: column;
   align-items: center;
 }
-.frame-eight {
+.frame-four {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/19a296c1-c6e8-4d3d-9490-436444451e74.png");
+  background-image: url("https://static.overlay-tech.com/assets/17f64a3f-8dfd-4952-ada5-a4e744d2be29.png");
   margin-bottom: 28px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -312,14 +291,14 @@
 .nashi-proekty-two {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/523b7bd5-96ef-42fb-a44a-7b0744293623.png");
+  background-image: url("https://static.overlay-tech.com/assets/49fccaa3-3832-48e1-ba39-3d309107a900.png");
   margin-bottom: 82px;
   padding: 191px 189px 71px 173px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-eighteen {
+.frame-fourteen {
   padding: 58px 51px 341.04px 67px;
   display: flex;
   flex-direction: column;
@@ -327,13 +306,13 @@
   flex: 1;
   position: relative;
 }
-.frame-twelve {
+.frame-eight {
   padding: 0 10.05px 20px 10px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-nine {
+.frame-five {
   width: calc(31.91% - 45.98px);
   margin-right: 20px;
   padding: 315px 12.98px 32.98px 33px;
@@ -356,13 +335,13 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-ten {
+.frame-six {
   width: calc(31.91% - 45.98px);
   margin-right: 20.01px;
   padding: 315px 12.96px 32.98px 33.02px;
   position: relative;
 }
-.frame-eleven {
+.frame-seven {
   width: calc(31.91% - 45.98px);
   padding: 315px 12.95px 32.98px 33.03px;
   position: relative;
@@ -381,14 +360,14 @@
   align-self: stretch;
   position: relative;
 }
-.frame-sixteen {
+.frame-twelve {
   width: calc(100% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
   align-items: flex-start;
   position: relative;
 }
-.frame-thirteen {
+.frame-nine {
   width: calc(31.91% - 45.98px);
   margin-right: 20px;
   padding: 315.02px 12.98px 32.96px 33px;
@@ -401,18 +380,18 @@
   left: calc(50% - 300px / 2);
   top: 0.02px;
 }
-.frame-fourteen {
+.frame-ten {
   width: calc(31.91% - 45.98px);
   margin-right: 20.01px;
   padding: 315.02px 12.96px 32.96px 33.02px;
   position: relative;
 }
-.frame-fifteen {
+.frame-eleven {
   width: calc(31.91% - 45.98px);
   padding: 315.02px 12.95px 32.96px 33.03px;
   position: relative;
 }
-.frame-seventeen {
+.frame-thirteen {
   width: calc(100% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -457,14 +436,14 @@
   margin-left: 193px;
   position: relative;
 }
-.komanda {
+.komanda-two {
   width: calc(100% - 98px);
-  padding: 0 51px 218px 47px;
+  padding: 0 51px 205px 47px;
   position: relative;
 }
 .portrety-i-podpisi {
   width: calc(100% - 470px);
-  padding: 31px 230px 0 240px;
+  padding: 31px 230px 13px 240px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -516,8 +495,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/eef20a5d-30b7-430d-988a-f041ced33121.png"),
-    url("https://static.overlay-tech.com/assets/dcb89176-f65f-4ab3-81cf-29b037622703.png");
+  background: url("https://static.overlay-tech.com/assets/749b863c-75bf-479d-a4ed-6abb96d7d5c6.png"),
+    url("https://static.overlay-tech.com/assets/cf943f52-2c94-469c-87f8-a5ff79ecd20e.png");
   margin-bottom: 20px;
 }
 .dzhejn-dou {
@@ -545,8 +524,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/b960e70b-7105-4b39-ae29-9f6ab8c36b64.png"),
-    url("https://static.overlay-tech.com/assets/b630d133-9a94-4299-930b-a73f68f12967.png");
+  background: url("https://static.overlay-tech.com/assets/75c9e4cf-5dd0-4566-9ff9-ee8a2c1e8854.png"),
+    url("https://static.overlay-tech.com/assets/7489fa9d-579c-4ed9-8cf9-dfb1a2c520fc.png");
   margin-bottom: 20px;
 }
 .denni-devri {
@@ -577,15 +556,15 @@
   align-items: center;
   position: absolute;
   right: -20px;
-  bottom: 0;
+  bottom: 13px;
 }
 .flex-wrapper-one {
   width: 220px;
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/b9ea2159-0e23-4909-87cc-41102dbb4025.png"),
-    url("https://static.overlay-tech.com/assets/91aaebe9-679e-49ab-944b-06ff80863a95.png");
+  background: url("https://static.overlay-tech.com/assets/857de77e-e6d5-4fad-9bd3-970728cd3011.png"),
+    url("https://static.overlay-tech.com/assets/33548e0b-b7a3-49a4-b83c-73e17627d2a7.png");
   margin-bottom: 20px;
 }
 .imjarek {
@@ -616,15 +595,15 @@
   align-items: center;
   position: absolute;
   left: -20px;
-  bottom: 0;
+  bottom: 13px;
 }
 .flex-wrapper-four {
   width: 220px;
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/4bee3d2f-3996-47c4-b22f-a773ea8417f0.png"),
-    url("https://static.overlay-tech.com/assets/22a29ff8-f7e9-4f16-8bec-da052ccf9a9c.png");
+  background: url("https://static.overlay-tech.com/assets/80167f83-600b-4bb2-86b8-3fbe971d0684.png"),
+    url("https://static.overlay-tech.com/assets/3bc1b4c7-bf68-4050-a649-19f7ff72abad.png");
   margin-bottom: 20px;
 }
 .dzhon-dou {
@@ -650,16 +629,13 @@
 .deviz-two {
   width: calc(100% - 677px);
   height: calc(100% - 563px);
-  background-color: rgba(0, 0, 0, 0.43);
-  padding: 44px 126px 16px 127px;
+  padding: 19px 131px 0 132px;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: absolute;
-  left: 208px;
-  bottom: 35px;
-  border: 5px solid rgba(255, 255, 255, 1);
-  backdrop-filter: blur(30px);
+  left: 195px;
+  bottom: 23px;
 }
 .metamo-dern-three {
   width: 99.74%;
@@ -688,19 +664,19 @@
   height: calc(8.9% - 53px);
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/a940033e-057f-4e6a-91a5-3e6ac399c649.png");
+  background-image: url("https://static.overlay-tech.com/assets/c16371b0-dbf4-479e-a59e-b727d7688ff2.png");
   padding: 25px 193px 28px 176px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-twenty-two {
+.frame-eighteen {
   padding: 39px 56px 39px 77px;
   display: flex;
   align-items: flex-start;
   flex: 1;
 }
-.frame-nineteen {
+.frame-fifteen {
   width: calc(100% - 765px);
   margin-right: 64px;
   padding: 17.05px 46px 24px 47px;
@@ -735,7 +711,7 @@
   text-align: center;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.frame-twenty {
+.frame-sixteen {
   width: calc(100% - 765px);
   height: calc(100% - 51.05px);
   margin-top: 11px;
@@ -773,7 +749,7 @@
   margin-left: 15px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.frame-twenty-one {
+.frame-seventeen {
   width: calc(100% - 709px);
   height: calc(100% - 51.05px);
   padding: 6.05px 32px 21px 26px;
