@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/a06fbbec-6f4f-4270-beca-e0d3a626c84a.png");
+  background-image: url("https://static.overlay-tech.com/assets/b94f5226-ccf2-4568-9537-45e48ca15c42.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -169,7 +169,7 @@
   align-items: center;
   position: relative;
 }
-.frame-thirteen {
+.frejm-processa {
   width: calc(102.13% - 0.05px);
   padding: 0 0.05px 0 0;
   display: flex;
@@ -178,7 +178,7 @@
   left: -10px;
   top: 119px;
 }
-.frame-eight {
+.num-1-process {
   width: calc(33.33% - 19.98px);
   padding: 0 9.98px 5px 10px;
   display: flex;
@@ -193,7 +193,7 @@
   align-items: center;
   align-self: stretch;
 }
-.image-two {
+.process1 {
   width: 127px;
   height: 119px;
 }
@@ -208,7 +208,7 @@
   text-transform: uppercase;
   margin-bottom: 20px;
 }
-.lorem-ipsum-dolor-sit-amet-consectetur {
+.nezavershjonnost-sistemy-vlechjot-neobhodim {
   max-width: 297px;
   font-family: "Vollkorn";
   font-size: 15px;
@@ -217,15 +217,15 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
-.frame-ten {
+.num-2-process {
   width: calc(33.33% - 19.98px);
   margin-right: 0.01px;
-  padding: 0 9.96px 5px 10.02px;
+  padding: 0 9.96px 27px 10.02px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.frame-nine {
+.frame-eight {
   width: calc(100% - 173px);
   background-color: rgba(255, 255, 255, 1);
   margin-bottom: 38px;
@@ -244,7 +244,7 @@
   text-transform: uppercase;
   margin-bottom: 20px;
 }
-.duis-cursus-mi-quis-viverra-ornare-ero {
+.metamodernizm-raskachivaetsja-mezhdu-modern {
   max-width: 284px;
   font-family: "Vollkorn";
   font-size: 15px;
@@ -253,14 +253,14 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
-.frame-twelve {
+.num-3-process {
   width: calc(33.33% - 18.98px);
   padding: 0 8.95px 5px 10.03px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.frame-eleven {
+.frame-nine {
   width: calc(99.67% - 173px);
   background-color: rgba(255, 255, 255, 1);
   margin-bottom: 28px;
@@ -279,7 +279,7 @@
   text-transform: uppercase;
   margin-bottom: 10px;
 }
-.aenean-faucibus-nibh-et-justo-cursus-id {
+.raskachivajas-tuda-i-obratno-metamodern {
   max-width: 300px;
   font-family: "Vollkorn";
   font-size: 15px;
@@ -288,7 +288,7 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
-.how-we-make-brands-thrive {
+.process-metamo-derna {
   width: 394px;
   font-family: "Montserrat";
   font-size: 23px;
@@ -299,7 +299,7 @@
   text-transform: uppercase;
   margin-bottom: 28px;
 }
-.rectangle {
+.tire {
   width: 20.3%;
   height: 2px;
   background-color: rgba(255, 255, 255, 1);
@@ -312,7 +312,7 @@
   align-items: center;
   align-self: stretch;
 }
-.frame-twenty-eight {
+.frame-twenty-four {
   padding: 10px 355px 1254.95px;
   display: flex;
   flex-direction: column;
@@ -320,7 +320,7 @@
   flex: 1;
   position: relative;
 }
-.frame-nineteen {
+.frame-fifteen {
   width: calc(102.13% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -329,14 +329,14 @@
   left: -10px;
   top: 119px;
 }
-.frame-fifteen {
+.frame-eleven {
   width: 31.91%;
   position: relative;
 }
-.frame-fifteen:not(:last-of-type) {
+.frame-eleven:not(:last-of-type) {
   margin-right: 20px;
 }
-.frame-fourteen {
+.frame-ten {
   width: calc(100.01% - 216px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 108px 21px;
@@ -365,19 +365,19 @@
   text-transform: uppercase;
   margin-left: 7px;
 }
-.image-three {
+.image-two {
   width: 300px;
   height: 300px;
   position: absolute;
   left: calc(50% - 300px / 2);
   top: calc(50% - 300px / 2);
 }
-.frame-seventeen {
+.frame-thirteen {
   width: 31.91%;
   margin-right: 20.01px;
   position: relative;
 }
-.frame-sixteen {
+.frame-twelve {
   width: calc(100.01% - 153px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 77px 21px 76px;
@@ -406,7 +406,7 @@
   text-transform: uppercase;
   margin-left: 51px;
 }
-.frame-eighteen {
+.frame-fourteen {
   width: calc(100.01% - 209px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 105px 21px 104px;
@@ -446,7 +446,7 @@
   text-transform: uppercase;
   margin-bottom: 28px;
 }
-.rectangle-two {
+.rectangle {
   width: 34.78%;
   height: 2px;
   background-color: rgba(0, 0, 0, 0.09);
@@ -459,14 +459,14 @@
   left: -10px;
   top: 522.98px;
 }
-.frame-twenty-three {
+.frame-nineteen {
   padding: 0 10.05px 20px 10px;
   display: flex;
   align-items: flex-start;
   flex: 1;
   position: relative;
 }
-.frame-twenty {
+.frame-sixteen {
   width: calc(100.01% - 216px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 108px 21px;
@@ -485,7 +485,7 @@
   text-transform: uppercase;
   margin-left: 12px;
 }
-.frame-twenty-one {
+.frame-seventeen {
   width: calc(100.01% - 239px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 120px 21px 119px;
@@ -514,7 +514,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-two {
+.frame-eighteen {
   width: calc(100.01% - 240px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 120px 21px;
@@ -543,7 +543,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-seven {
+.frame-twenty-three {
   width: calc(100% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -552,7 +552,7 @@
   left: 0;
   bottom: -396.02px;
 }
-.frame-twenty-four {
+.frame-twenty {
   width: calc(100.01% - 244px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 122px 21px;
@@ -581,7 +581,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-five {
+.frame-twenty-one {
   width: calc(100.01% - 206px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 103px 21px;
@@ -610,7 +610,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-six {
+.frame-twenty-two {
   width: calc(100.01% - 229px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 115px 21px 114px;
@@ -768,7 +768,7 @@
   align-items: center;
   align-self: stretch;
 }
-.frame-thirty-four {
+.frame-thirty {
   padding: 0.05px 23.5px 0;
   display: flex;
   flex-direction: column;
@@ -780,7 +780,7 @@
   height: 16.62%;
   margin-bottom: 36.95px;
 }
-.frame-thirty-three {
+.frame-twenty-nine {
   overflow: hidden;
   padding: 30px 446.5px 29px 0;
   align-self: stretch;
@@ -793,7 +793,7 @@
   left: calc(50% - 447px / 2);
   top: 30.05px;
 }
-.rectangle-three {
+.rectangle-two {
   width: 2px;
   height: 215px;
   background-color: rgba(0, 0, 0, 0.04);
@@ -801,7 +801,7 @@
   left: calc(50% - 2px / 2);
   top: -0.05px;
 }
-.frame-twenty-nine {
+.frame-twenty-five {
   padding: 88.05px 191px 29.95px 191.5px;
   display: flex;
   align-items: flex-start;
@@ -821,7 +821,7 @@
   left: calc(50% - 330px / 2);
   top: -1.95px;
 }
-.image-four {
+.image-three {
   width: 64px;
   height: 64px;
 }
@@ -838,14 +838,14 @@
   left: calc(50% - 95px / 2);
   bottom: -0.05px;
 }
-.frame-thirty {
+.frame-twenty-six {
   padding: 121px 159px 0 160px;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: relative;
 }
-.image-five {
+.image-four {
   width: 64px;
   height: 64px;
   margin-bottom: 10px;
@@ -875,7 +875,7 @@
 .flex-wrapper-one {
   position: relative;
 }
-.rectangle-four {
+.rectangle-three {
   width: 2px;
   height: 215px;
   background-color: rgba(0, 0, 0, 0.04);
@@ -883,7 +883,7 @@
   left: calc(50% - 2px / 2);
   top: 0;
 }
-.frame-thirty-one {
+.frame-twenty-seven {
   padding: 121.05px 191px 29.95px 191.5px;
   position: relative;
 }
@@ -912,7 +912,7 @@
   left: calc(50% - 181px / 2);
   bottom: -0.05px;
 }
-.frame-thirty-two {
+.frame-twenty-eight {
   padding: 121px 164px 0 166px;
   display: flex;
   flex-direction: column;
@@ -943,17 +943,17 @@
   left: calc(50% - 340px / 2);
   top: -2px;
 }
-.frame-forty-one {
+.frame-thirty-seven {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/42795487-678f-4497-a57f-71bce22147be.png"),
+  background: url("https://static.overlay-tech.com/assets/c3c3f3f1-c2d8-4e6a-89d4-c4e4ec785c85.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
   align-items: center;
   align-self: stretch;
 }
-.frame-forty {
+.frame-thirty-six {
   padding: 10.05px 347px 302.95px 348px;
   display: flex;
   flex-direction: column;
@@ -961,14 +961,14 @@
   flex: 1;
   position: relative;
 }
-.frame-thirty-five {
+.frame-thirty-one {
   width: calc(33.33% - 141.98px);
   padding: 13.05px 70.98px 5.95px 71px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.image-six {
+.image-five {
   width: 44px;
   height: 65px;
   margin-bottom: 26px;
@@ -1020,7 +1020,7 @@
   color: rgba(33, 33, 33, 1);
   text-align: center;
 }
-.frame-thirty-seven {
+.frame-thirty-three {
   width: calc(33.33% - 20px);
   margin-right: 0.01px;
   padding: 20.05px 10px 5px;
@@ -1028,7 +1028,7 @@
   flex-direction: column;
   align-items: center;
 }
-.image-seven {
+.image-six {
   width: 70px;
   height: 50px;
   margin-bottom: 34px;
@@ -1044,7 +1044,7 @@
   text-transform: uppercase;
   margin-bottom: 20.95px;
 }
-.frame-thirty-six {
+.frame-thirty-two {
   padding: 21.05px 61.96px 0.95px 61.02px;
   display: flex;
   flex-direction: column;
@@ -1092,14 +1092,14 @@
   left: calc(50% - 65px / 2);
   top: -0.95px;
 }
-.frame-thirty-nine {
+.frame-thirty-five {
   width: calc(33.33% - 96.03px);
   padding: 20.05px 10px 11px 86.03px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
 }
-.image-eight {
+.image-seven {
   width: 68px;
   height: 56px;
   margin-bottom: 28px;
@@ -1116,13 +1116,13 @@
   text-transform: uppercase;
   margin-bottom: 20.95px;
 }
-.frame-thirty-eight {
+.frame-thirty-four {
   width: calc(89.75% - 187px);
   margin-left: 22.95px;
   padding: 0.05px 186.95px 5.95px 0.05px;
   position: relative;
 }
-.frame-thirty-eight:not(:last-of-type) {
+.frame-thirty-four:not(:last-of-type) {
   margin-bottom: 11px;
 }
 .vector-two {
@@ -1140,7 +1140,7 @@
   left: 23.05px;
   top: -1.95px;
 }
-.image-nine {
+.image-eight {
   width: 100%;
   padding: 1.56px 0 1.06px;
   display: flex;
@@ -1162,7 +1162,7 @@
   left: 23.05px;
   top: -1.95px;
 }
-.image-ten {
+.image-nine {
   width: 100%;
   padding: 0 0 0.2px;
   display: flex;
@@ -1194,7 +1194,7 @@
   text-transform: uppercase;
   margin-bottom: 28px;
 }
-.rectangle-five {
+.rectangle-four {
   width: 32.65%;
   height: 2px;
   background-color: rgba(0, 0, 0, 0.09);
