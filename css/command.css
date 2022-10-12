@@ -24,7 +24,7 @@
   display: flex;
   align-items: center;
 }
-.image {
+.logotip {
   width: 57px;
   height: 53px;
   margin-right: 5.7px;
@@ -77,7 +77,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/668dfa9d-99c7-4f12-bf8b-1afa6de58215.png");
+  background-image: url("https://static.overlay-tech.com/assets/a56d6a28-23e3-43ee-9ac8-af7d125a5a20.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -125,7 +125,7 @@
   align-items: flex-start;
   align-self: stretch;
 }
-.frame {
+.frejm-teksta {
   padding: 21px 38px 22px;
   display: flex;
   align-items: center;
@@ -140,7 +140,7 @@
   color: rgba(71, 71, 79, 1);
   text-align: center;
 }
-.princip-raboty {
+.princip-raboty-i-koncept {
   width: calc(65.28% - 546px);
   margin-bottom: 36px;
   margin-left: 250px;
@@ -150,7 +150,7 @@
   align-items: center;
   position: relative;
 }
-.frejm-processa {
+.frejm-processov {
   width: calc(102.13% - 0.05px);
   padding: 0 0.05px 0 0;
   display: flex;
@@ -166,16 +166,16 @@
   flex-direction: column;
   align-items: center;
 }
-.frame-two {
+.izobrazhenija {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/1da3e4a8-0894-4b02-98c0-a525ea460a21.png");
+  background-image: url("https://static.overlay-tech.com/assets/2bb7969f-b34e-4481-b2ba-1d69293d1aee.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
   align-items: center;
 }
-.process1 {
+.kartinka1 {
   width: 127px;
   height: 119px;
 }
@@ -207,10 +207,10 @@
   flex-direction: column;
   align-items: center;
 }
-.frame-three {
+.izobrazhenija2 {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/8bb3209a-6a8c-4c91-9792-6202654653dc.png");
+  background-image: url("https://static.overlay-tech.com/assets/cd3f27a0-5f8a-4685-a76c-67bde200a3a3.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -243,10 +243,10 @@
   flex-direction: column;
   align-items: center;
 }
-.frame-four {
+.izobrazhenija3 {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/02e0116f-bb33-41e7-a539-c3d75c66c253.png");
+  background-image: url("https://static.overlay-tech.com/assets/c0e90d02-7ef9-44d2-bcf4-65b459024194.png");
   margin-bottom: 28px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -288,17 +288,17 @@
   height: 2px;
   background-color: rgba(255, 255, 255, 1);
 }
-.nashi-proekty-two {
+.frejm-proektov {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/9d8a55d0-d35a-4eb6-87e9-5ab901a54ffb.png");
-  margin-bottom: 82px;
+  background-image: url("https://static.overlay-tech.com/assets/07c0cafa-ae8e-4396-8fc6-f3eab0f5662d.png");
+  margin-bottom: 63px;
   padding: 191px 189px 71px 173px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-fourteen {
+.frejm-izobrazhenij {
   padding: 58px 51px 341.04px 67px;
   display: flex;
   flex-direction: column;
@@ -306,19 +306,19 @@
   flex: 1;
   position: relative;
 }
-.frame-eight {
+.rjad1 {
   padding: 0 10.05px 20px 10px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-five {
+.num-11 {
   width: calc(31.91% - 45.98px);
   margin-right: 20px;
   padding: 315px 12.98px 32.98px 33px;
   position: relative;
 }
-.image-two {
+.image11 {
   width: 300px;
   height: 300px;
   position: absolute;
@@ -335,13 +335,13 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-six {
+.num-12 {
   width: calc(31.91% - 45.98px);
   margin-right: 20.01px;
   padding: 315px 12.96px 32.98px 33.02px;
   position: relative;
 }
-.frame-seven {
+.num-13 {
   width: calc(31.91% - 45.98px);
   padding: 315px 12.95px 32.98px 33.03px;
   position: relative;
@@ -360,38 +360,38 @@
   align-self: stretch;
   position: relative;
 }
-.frame-twelve {
+.rjad2 {
   width: calc(100% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
   align-items: flex-start;
   position: relative;
 }
-.frame-nine {
+.num-21 {
   width: calc(31.91% - 45.98px);
   margin-right: 20px;
   padding: 315.02px 12.98px 32.96px 33px;
   position: relative;
 }
-.image-three {
+.image21 {
   width: 300px;
   height: 300px;
   position: absolute;
   left: calc(50% - 300px / 2);
   top: 0.02px;
 }
-.frame-ten {
+.num-22 {
   width: calc(31.91% - 45.98px);
   margin-right: 20.01px;
   padding: 315.02px 12.96px 32.96px 33.02px;
   position: relative;
 }
-.frame-eleven {
+.num-23 {
   width: calc(31.91% - 45.98px);
   padding: 315.02px 12.95px 32.96px 33.03px;
   position: relative;
 }
-.frame-thirteen {
+.rjad3 {
   width: calc(100% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -400,7 +400,7 @@
   left: 0;
   bottom: -396.02px;
 }
-.image-four {
+.image31 {
   width: 300px;
   height: 300px;
   position: absolute;
@@ -431,27 +431,72 @@
   top: -51px;
 }
 .relative-wrapper-two {
-  width: 73.47%;
+  width: 78.26%;
   margin-bottom: 18px;
-  margin-left: 193px;
+  margin-left: 173px;
   position: relative;
 }
 .komanda-two {
-  width: calc(100% - 98px);
-  padding: 0 51px 205px 47px;
+  width: calc(100% - 54px);
+  padding: 32px 34px 189px 20px;
   position: relative;
 }
 .portrety-i-podpisi {
-  width: calc(100% - 470px);
-  padding: 31px 230px 13px 240px;
+  width: calc(100% - 53px);
+  padding: 18px 26px 29px 27px;
+  display: flex;
+  align-items: flex-start;
+}
+.dzhon {
+  width: calc(23.53% - 20px);
+  margin-top: 88px;
+  padding: 0.05px 10px 52.95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.dzhon:not(:last-of-type) {
+  margin-right: 20px;
+}
+.flex-wrapper-four {
+  width: 220px;
+  height: 220px;
+  background-size: 100% 100%;
+  background-position: center;
+  background: url("https://static.overlay-tech.com/assets/e4e49810-7d39-4048-b4e3-04420636223b.png"),
+    url("https://static.overlay-tech.com/assets/09cb6a3a-b04a-4535-93c7-d96f093b1bdf.png");
+  margin-bottom: 20px;
+  border-radius: 41px;
+}
+.dzhon-dou {
+  width: 131px;
+  font-family: "Tahoma";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.osnovatel {
+  width: 86px;
+  font-family: "Calibri";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+}
+.flex-wrapper-five {
+  margin-right: 20px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: relative;
 }
 .nasha-komanda {
   height: 40px;
-  width: 66.73%;
+  width: 65.4%;
   font-family: "Calibri";
   font-size: 23px;
   font-weight: 400;
@@ -464,28 +509,29 @@
   margin-bottom: 48px;
   margin-left: 78px;
 }
-.flex-wrapper-five {
+.flex-wrapper-six {
   display: flex;
   align-items: flex-start;
 }
 .dzhejn {
-  width: calc(48.98% - 20px);
+  width: calc(48% - 20px);
   padding: 0.05px 10px 52.95px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 .dzhejn:not(:last-of-type) {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .flex-wrapper-three {
   width: 220px;
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/9e92afa0-5bb1-42bb-85c3-ea01699c4cb2.png"),
-    url("https://static.overlay-tech.com/assets/fec59dcc-82af-4b21-802d-895a7fac85be.png");
+  background: url("https://static.overlay-tech.com/assets/89f4af00-b93c-4883-a4c5-7f7cd1612e21.png"),
+    url("https://static.overlay-tech.com/assets/236bfaa0-641d-49a4-b266-4a7e9e377627.png");
   margin-bottom: 20px;
+  border-radius: 38px;
 }
 .dzhejn-dou {
   width: 114px;
@@ -512,9 +558,10 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/7dfa6c2e-017d-4ce7-a8e1-0b856209a00c.png"),
-    url("https://static.overlay-tech.com/assets/8e50aaa4-8c1e-4fed-a719-99b73103d806.png");
+  background: url("https://static.overlay-tech.com/assets/41060a22-383b-4a50-9831-741bdb8bb8b5.png"),
+    url("https://static.overlay-tech.com/assets/5b1c0dff-8245-4af8-bdf5-9e218829cd7d.png");
   margin-bottom: 20px;
+  border-radius: 35px;
 }
 .denni-devri {
   width: 121px;
@@ -536,24 +583,15 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
-.imjarek-two {
-  width: calc(25% - 20px);
-  padding: 0.05px 10px 52.95px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: absolute;
-  right: -20px;
-  bottom: 13px;
-}
 .flex-wrapper-one {
   width: 220px;
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/109625f1-9aea-4958-a42b-3a3a8be2e045.png"),
-    url("https://static.overlay-tech.com/assets/e76ce4b2-0d2c-4f3a-a5af-0143b5519df0.png");
+  background: url("https://static.overlay-tech.com/assets/3f207961-96e1-4c52-93ec-a733cab01b42.png"),
+    url("https://static.overlay-tech.com/assets/b3a25d80-3758-4fc7-b27d-300834b86f54.png");
   margin-bottom: 20px;
+  border-radius: 35px;
 }
 .imjarek {
   width: 93px;
@@ -575,55 +613,16 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
-.dzhon {
-  width: calc(25% - 20px);
-  padding: 0.05px 10px 52.95px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: absolute;
-  left: -20px;
-  bottom: 13px;
-}
-.flex-wrapper-four {
-  width: 220px;
-  height: 220px;
-  background-size: 100% 100%;
-  background-position: center;
-  background: url("https://static.overlay-tech.com/assets/9f47ed31-a6dd-43eb-9764-cdce467c7756.png"),
-    url("https://static.overlay-tech.com/assets/9e4f6cd9-8bf1-4534-b92b-661c9062a963.png");
-  margin-bottom: 20px;
-}
-.dzhon-dou {
-  width: 131px;
-  font-family: "Tahoma";
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  text-transform: uppercase;
-  margin-bottom: 6px;
-}
-.osnovatel {
-  width: 86px;
-  font-family: "Calibri";
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-}
 .deviz-two {
-  width: calc(100% - 677px);
-  height: calc(100% - 563px);
+  width: calc(100% - 746px);
+  height: calc(100% - 582px);
   padding: 19px 131px 0 132px;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: absolute;
-  left: 195px;
-  bottom: 23px;
+  left: 215px;
+  bottom: 45px;
 }
 .metamo-dern-three {
   width: 99.74%;
@@ -654,19 +653,19 @@
   height: calc(8.9% - 53px);
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/2b192a8a-9565-4235-8855-eee11189de14.png");
+  background-image: url("https://static.overlay-tech.com/assets/9ebaf775-7096-40e9-8e98-8a5b4abdfe3a.png");
   padding: 25px 193px 28px 176px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-eighteen {
+.frejm-s-informaciej {
   padding: 39px 56px 39px 77px;
   display: flex;
   align-items: flex-start;
   flex: 1;
 }
-.frame-fifteen {
+.frejm-gostej {
   width: calc(100% - 765px);
   margin-right: 64px;
   padding: 17.05px 46px 24px 47px;
@@ -675,7 +674,7 @@
   align-items: center;
   align-self: stretch;
 }
-.image-five {
+.marker {
   width: 44px;
   height: 65px;
   margin-bottom: 8.95px;
@@ -701,7 +700,7 @@
   text-align: center;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.frame-sixteen {
+.frejm-pis-ma {
   width: calc(100% - 765px);
   height: calc(100% - 51.05px);
   margin-top: 11px;
@@ -711,7 +710,7 @@
   flex-direction: column;
   align-items: flex-start;
 }
-.image-six {
+.karandashik {
   width: 44px;
   height: 65px;
   margin-bottom: 8.95px;
@@ -739,7 +738,7 @@
   margin-left: 15px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.frame-seventeen {
+.frejm-stranichek {
   width: calc(100% - 709px);
   height: calc(100% - 51.05px);
   padding: 6.05px 32px 21px 26px;
@@ -747,7 +746,7 @@
   flex-direction: column;
   align-items: flex-start;
 }
-.image-seven {
+.serdechko {
   width: 44px;
   height: 65px;
   margin-bottom: 8.95px;
