@@ -42,15 +42,15 @@
   text-transform: uppercase;
 }
 .ssylki {
-  width: calc(33.24% - 67px);
+  width: calc(33.24% - 66px);
   margin-top: 12px;
-  padding: 16px 29px 13px 38px;
+  padding: 16px 28px 13px 38px;
   display: flex;
   align-items: flex-start;
 }
 .git {
   height: 20px;
-  width: 26.95%;
+  width: 26.85%;
   font-family: "Montserrat";
   font-size: 12px;
   font-weight: 400;
@@ -64,7 +64,7 @@
 }
 .komanda {
   height: 20px;
-  width: 18.75%;
+  width: 18.68%;
   font-family: "Montserrat";
   font-size: 12px;
   font-weight: 400;
@@ -72,12 +72,12 @@
   color: rgba(255, 255, 255, 1);
   display: flex;
   text-transform: uppercase;
-  margin-right: 21px;
+  margin-right: 22px;
 }
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/0f5ac545-3adf-446a-b33b-1b810386aac5.png");
+  background-image: url("https://static.overlay-tech.com/assets/668dfa9d-99c7-4f12-bf8b-1afa6de58215.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -169,7 +169,7 @@
 .frame-two {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/c5e51a39-9fac-43ca-9c5e-66be9c467c28.png");
+  background-image: url("https://static.overlay-tech.com/assets/1da3e4a8-0894-4b02-98c0-a525ea460a21.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -210,7 +210,7 @@
 .frame-three {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/2cb3b3ea-bb9c-4a82-a905-79c3552abe6d.png");
+  background-image: url("https://static.overlay-tech.com/assets/8bb3209a-6a8c-4c91-9792-6202654653dc.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -246,7 +246,7 @@
 .frame-four {
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/17f64a3f-8dfd-4952-ada5-a4e744d2be29.png");
+  background-image: url("https://static.overlay-tech.com/assets/02e0116f-bb33-41e7-a539-c3d75c66c253.png");
   margin-bottom: 28px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -291,7 +291,7 @@
 .nashi-proekty-two {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/49fccaa3-3832-48e1-ba39-3d309107a900.png");
+  background-image: url("https://static.overlay-tech.com/assets/9d8a55d0-d35a-4eb6-87e9-5ab901a54ffb.png");
   margin-bottom: 82px;
   padding: 191px 189px 71px 173px;
   display: flex;
@@ -452,29 +452,17 @@
 .nasha-komanda {
   height: 40px;
   width: 66.73%;
-  display: flex;
-  text-align: center;
-  margin-bottom: 48px;
-  margin-left: 78px;
-  font-family: "Calibri";
-  font-size: 23px;
-  font-weight: 700;
-  line-height: 36px;
-  color: rgba(255, 255, 255, 1);
-}
-.nasha-komanda-emphasis-1 {
   font-family: "Calibri";
   font-size: 23px;
   font-weight: 400;
   line-height: 36px;
   color: rgba(255, 255, 255, 1);
-}
-.nasha-komanda-emphasis-3 {
-  font-family: "Tahoma";
-  font-size: 23px;
-  font-weight: 700;
-  line-height: 36px;
-  color: rgba(255, 255, 255, 1);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 48px;
+  margin-left: 78px;
 }
 .flex-wrapper-five {
   display: flex;
@@ -495,8 +483,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/749b863c-75bf-479d-a4ed-6abb96d7d5c6.png"),
-    url("https://static.overlay-tech.com/assets/cf943f52-2c94-469c-87f8-a5ff79ecd20e.png");
+  background: url("https://static.overlay-tech.com/assets/9e92afa0-5bb1-42bb-85c3-ea01699c4cb2.png"),
+    url("https://static.overlay-tech.com/assets/fec59dcc-82af-4b21-802d-895a7fac85be.png");
   margin-bottom: 20px;
 }
 .dzhejn-dou {
@@ -524,8 +512,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/75c9e4cf-5dd0-4566-9ff9-ee8a2c1e8854.png"),
-    url("https://static.overlay-tech.com/assets/7489fa9d-579c-4ed9-8cf9-dfb1a2c520fc.png");
+  background: url("https://static.overlay-tech.com/assets/7dfa6c2e-017d-4ce7-a8e1-0b856209a00c.png"),
+    url("https://static.overlay-tech.com/assets/8e50aaa4-8c1e-4fed-a719-99b73103d806.png");
   margin-bottom: 20px;
 }
 .denni-devri {
@@ -563,8 +551,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/857de77e-e6d5-4fad-9bd3-970728cd3011.png"),
-    url("https://static.overlay-tech.com/assets/33548e0b-b7a3-49a4-b83c-73e17627d2a7.png");
+  background: url("https://static.overlay-tech.com/assets/109625f1-9aea-4958-a42b-3a3a8be2e045.png"),
+    url("https://static.overlay-tech.com/assets/e76ce4b2-0d2c-4f3a-a5af-0143b5519df0.png");
   margin-bottom: 20px;
 }
 .imjarek {
@@ -602,8 +590,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/80167f83-600b-4bb2-86b8-3fbe971d0684.png"),
-    url("https://static.overlay-tech.com/assets/3bc1b4c7-bf68-4050-a649-19f7ff72abad.png");
+  background: url("https://static.overlay-tech.com/assets/9f47ed31-a6dd-43eb-9764-cdce467c7756.png"),
+    url("https://static.overlay-tech.com/assets/9e4f6cd9-8bf1-4534-b92b-661c9062a963.png");
   margin-bottom: 20px;
 }
 .dzhon-dou {
@@ -648,6 +636,7 @@
   text-align: center;
   text-transform: uppercase;
   margin-bottom: 3px;
+  backdrop-filter: blur(30px);
 }
 .dvizhenie-ra-di-dvizhenija-two {
   height: 48.67%;
@@ -659,12 +648,13 @@
   align-self: stretch;
   text-align: center;
   text-transform: uppercase;
+  backdrop-filter: blur(30px);
 }
 .podval {
   height: calc(8.9% - 53px);
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/c16371b0-dbf4-479e-a59e-b727d7688ff2.png");
+  background-image: url("https://static.overlay-tech.com/assets/2b192a8a-9565-4235-8855-eee11189de14.png");
   padding: 25px 193px 28px 176px;
   display: flex;
   align-items: flex-start;
