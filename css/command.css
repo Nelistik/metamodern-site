@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/b6bf132f-dee2-4234-9421-cad039aec7f3.png");
+  background-image: url("https://static.overlay-tech.com/assets/f29d55a6-c9c4-4efe-9bf5-0ca11ea78556.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -347,7 +347,7 @@
   top: 0;
 }
 .process-metamo-derna-two {
-  width: 254px;
+  width: 100%;
   font-family: "Montserrat";
   font-size: 14px;
   font-weight: 400;
@@ -390,16 +390,6 @@
   position: absolute;
   left: calc(50% - 300px / 2);
   top: calc(50% - 300px / 2);
-}
-.process-metamo-derna-three {
-  width: 100%;
-  font-family: "Montserrat";
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 36px;
-  color: rgba(0, 0, 0, 1);
-  text-align: center;
-  text-transform: uppercase;
 }
 .frame-fifteen {
   width: calc(31.91% - 45.98px);
@@ -741,7 +731,7 @@
 .frame-thirty-two {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/22ac0f8a-c9cb-4064-b2d7-5ef3c68d6c6b.png"),
+  background: url("https://static.overlay-tech.com/assets/89d48a6a-33bb-4db9-973a-6ea491edc8e3.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
