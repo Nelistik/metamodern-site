@@ -95,7 +95,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/af17b7f9-b153-408f-9ccc-21eae509815d.png");
+  background-image: url("https://static.overlay-tech.com/assets/21a8db37-c32c-4588-9a2f-dcb24e72183b.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -382,7 +382,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.relative-wrapper-two {
+.relative-wrapper-three {
   align-self: stretch;
   position: relative;
 }
@@ -482,8 +482,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/bd1afda1-6cde-47e7-8bb2-0607a8d51788.png"),
-    url("https://static.overlay-tech.com/assets/82fdaacf-3809-4282-b776-e35884779b55.png");
+  background: url("https://static.overlay-tech.com/assets/d5603239-9269-480b-b618-66b1c5c89423.png"),
+    url("https://static.overlay-tech.com/assets/0d03b0b4-15f9-4b3f-8eb9-42af85738892.png");
   margin-bottom: 20px;
 }
 .dzhon-dou {
@@ -511,8 +511,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/097a782d-ecd3-4e1a-9590-a8b73838d452.png"),
-    url("https://static.overlay-tech.com/assets/be803b0a-5495-41c9-879a-6ce4fab8631d.png");
+  background: url("https://static.overlay-tech.com/assets/2f40ac17-7391-40bc-8f88-5b12e96005f4.png"),
+    url("https://static.overlay-tech.com/assets/faba4ea8-9180-41be-bcb1-cc334ec32cb9.png");
   margin-bottom: 20px;
 }
 .dzhejn-dou {
@@ -540,8 +540,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/b836a7d0-6a2d-49eb-ad91-149bb93ec7d0.png"),
-    url("https://static.overlay-tech.com/assets/75919834-98b6-46e6-8044-77816d633f1e.png");
+  background: url("https://static.overlay-tech.com/assets/017cfe64-b14f-4479-8dd8-4273c841f055.png"),
+    url("https://static.overlay-tech.com/assets/e9657de5-8c3e-4a78-be2b-ed95ba14b7f5.png");
   margin-bottom: 20px;
 }
 .denni-devri {
@@ -569,8 +569,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/96889434-a2c3-4d48-8f0e-530c756818dc.png"),
-    url("https://static.overlay-tech.com/assets/18a263dd-a125-4807-9cd6-8fbdf0062476.png");
+  background: url("https://static.overlay-tech.com/assets/cac1c608-8fd9-43ac-b071-fdc64f9bbcb8.png"),
+    url("https://static.overlay-tech.com/assets/ebd2ca4a-0201-4d63-9ab3-83a8740e7b80.png");
   margin-bottom: 20px;
 }
 .imjarek {
@@ -636,7 +636,7 @@
   align-self: stretch;
   position: relative;
 }
-.relative-wrapper-one {
+.relative-wrapper-two {
   display: flex;
   align-items: flex-start;
   position: absolute;
@@ -796,256 +796,161 @@
 .frame-thirty-two {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/7d768780-8ea3-4aa7-af13-8e4f24f3d8c2.png"),
-    rgba(126, 196, 189, 1);
-  padding: 68.95px 250px 69.05px;
+  background-image: url("https://static.overlay-tech.com/assets/67d1dd6c-7446-41d0-b8a1-dc6d60a7d366.png");
+  padding: 156px 240px 101px;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   align-self: stretch;
 }
 .frame-thirty-one {
-  padding: 10.05px 347px 302.95px 348px;
+  padding: 0 0.05px 0 319.98px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
+  justify-content: space-between;
   flex: 1;
+  height: 260px;
   position: relative;
 }
-.frame-twenty-six {
-  width: calc(33.33% - 141.98px);
-  padding: 13.05px 70.98px 5.95px 71px;
+.frame-twenty-seven {
+  width: calc(100% - 436.97px);
+  padding: 20.05px 62.96px 32.95px 54.02px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
+  align-self: stretch;
 }
 .image-seven {
-  width: 44px;
-  height: 65px;
-  margin-bottom: 26px;
-}
-.meet-us-in-person {
-  width: 173px;
-  font-family: "Montserrat";
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(51, 51, 51, 1);
-  text-align: center;
-  text-transform: uppercase;
-  margin-bottom: 20px;
-}
-.num-8776-juniper-street {
-  width: 144px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(33, 33, 33, 1);
-  text-align: center;
-}
-.unit-204 {
-  width: 79px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(33, 33, 33, 1);
-  text-align: center;
-}
-.merriweather-ontorio {
-  width: 178px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(33, 33, 33, 1);
-  text-align: center;
-}
-.canada {
-  width: 58px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(33, 33, 33, 1);
-  text-align: center;
-}
-.frame-twenty-eight {
-  width: calc(33.33% - 20px);
-  margin-right: 0.01px;
-  padding: 20.05px 10px 5px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.image-eight {
   width: 70px;
   height: 50px;
   margin-bottom: 34px;
+  margin-left: 71px;
 }
-.the-traditional-way {
+.napishi-nam {
   width: 195px;
   font-family: "Montserrat";
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 20.95px;
+  margin-bottom: 34px;
+  margin-left: 8px;
 }
-.frame-twenty-seven {
-  padding: 21.05px 61.96px 0.95px 61.02px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  align-self: stretch;
+.frame-twenty-six {
+  width: calc(100% - 91px);
+  padding: 11.05px 45.98px 13.95px 45.02px;
   position: relative;
 }
-.contact-com {
+.helgter-ru {
   width: 177px;
   font-family: "Vollkorn";
   font-size: 17px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 22px;
-  color: rgba(28, 28, 28, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
-  margin-bottom: 22px;
-}
-.contact-form {
-  width: 102px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(33, 33, 33, 1);
-  text-align: center;
-}
-.scroll-down {
-  width: 89px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(28, 28, 28, 1);
-  text-align: center;
-}
-.email-us {
-  width: 65px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(33, 33, 33, 1);
-  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   position: absolute;
-  left: calc(50% - 65px / 2);
-  top: -0.95px;
+  left: calc(50% - 177px / 2);
+  top: 10.05px;
 }
-.frame-thirty {
-  width: calc(33.33% - 96.03px);
-  padding: 20.05px 10px 11px 86.03px;
+.tg {
+  width: 112px;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  position: relative;
+  font-family: "Vollkorn";
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+}
+.tg-emphasis-0 {
+  font-family: "Vollkorn";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+}
+.frame-twenty-nine {
+  width: calc(100% - 444.97px);
+  height: calc(100% - 118.01px);
+  padding: 20.05px 62.95px 75.96px 62.03px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
 }
-.image-nine {
+.image-eight {
   width: 68px;
   height: 56px;
-  margin-bottom: 28px;
-  margin-left: 40px;
+  margin-bottom: 12px;
+  margin-left: 64px;
 }
-.lets-get-social {
-  width: 147px;
+.zajdi-na-stranichku {
+  max-width: 195px;
   font-family: "Montserrat";
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
-  color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 20.95px;
+  margin-bottom: 15px;
 }
-.frame-twenty-nine {
-  width: calc(89.75% - 187px);
-  margin-left: 22.95px;
-  padding: 0.05px 186.95px 5.95px 0.05px;
+.relative-wrapper-one {
+  margin-left: 51px;
   position: relative;
 }
-.frame-twenty-nine:not(:last-of-type) {
-  margin-bottom: 11px;
+.frame-twenty-eight {
+  padding: 0 23px;
+  position: relative;
 }
-.vector-two {
-  width: 100%;
-  height: 100%;
+.vkontakte {
+  width: 77.24px;
+  height: 18.99px;
 }
-.facebook {
-  width: 34.83%;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(33, 33, 33, 1);
+.image-8 {
+  width: 18.66%;
+  height: 23px;
   position: absolute;
-  left: 23.05px;
-  top: -1.95px;
+  left: -12px;
+  top: calc(50% - 23px / 2);
 }
-.image-ten {
-  width: 100%;
-  padding: 1.56px 0 1.06px;
+.frame-thirty {
+  width: calc(100% - 787px);
+  height: calc(100% - 63.05px);
+  padding: 13.05px 70px 28px 69px;
   display: flex;
+  flex-direction: column;
   align-items: center;
-}
-.vector-three {
-  height: 100%;
-  flex: 1;
-  object-fit: cover;
-}
-.twitter {
-  width: 28.86%;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(33, 33, 33, 1);
   position: absolute;
-  left: 23.05px;
-  top: -1.95px;
+  left: 0;
+  top: -5.95px;
 }
-.image-eleven {
-  width: 100%;
-  padding: 0 0 0.2px;
-  display: flex;
-  align-items: center;
+.image-nine {
+  width: 44px;
+  height: 65px;
+  margin-bottom: 20.95px;
 }
-.group {
-  width: 14px;
-  height: 13.8px;
-}
-.linkdin {
-  width: 30.35%;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 20px;
-  color: rgba(33, 33, 33, 1);
-  position: absolute;
-  left: 23.05px;
-  top: -1.95px;
-}
-.lets-get-in-touch {
-  width: 245px;
+.vstretimsja-lichno {
+  max-width: 173px;
   font-family: "Montserrat";
-  font-size: 23px;
+  font-size: 16px;
   font-weight: 400;
-  line-height: 36px;
-  color: rgba(51, 51, 51, 1);
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 28px;
+  margin-bottom: 5px;
 }
-.rectangle-three {
-  width: 32.65%;
-  height: 2px;
-  background-color: rgba(0, 0, 0, 0.09);
+.rossija-moskva-vadkovskij-pereulok-3a {
+  max-width: 158px;
+  font-family: "Vollkorn";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
