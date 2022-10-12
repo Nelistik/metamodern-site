@@ -6,32 +6,32 @@
 }
 .chjolka {
   background-color: rgba(0, 0, 0, 1);
-  padding: 18px 250px;
+  padding: 18px 186px 18px 216px;
   display: flex;
   align-items: center;
   align-self: stretch;
 }
 .tekst-chjolki {
-  padding: 0 0 0 10px;
+  padding: 0 36px 0 30.3px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   flex: 1;
 }
 .logotipmetamodern {
-  width: 22.47%;
-  margin-right: 363px;
-  padding: 8px 0 9px;
+  width: calc(22.15% - 3px);
+  margin-right: 361.47px;
+  padding: 8px 0 9px 3px;
   display: flex;
   align-items: center;
 }
 .image {
   width: 57px;
   height: 53px;
-  margin-right: 12.77px;
+  margin-right: 11.85px;
 }
 .metamo-dern {
   height: 38px;
-  width: 66.62%;
+  width: 67.56%;
   font-family: "Oswald";
   font-size: 22px;
   font-weight: 400;
@@ -40,15 +40,15 @@
   display: flex;
   text-transform: uppercase;
 }
-.frame-five {
-  width: calc(38.49% - 34px);
-  padding: 23px 0 0 34px;
+.ssylki {
+  width: calc(40.65% - 61.04px);
+  padding: 27px 14px 20px 47.04px;
   display: flex;
   align-items: flex-start;
 }
 .frame {
   width: 18.52%;
-  margin-right: 34px;
+  margin-right: 35.05px;
   padding: 0 0 2px;
   display: flex;
   align-items: center;
@@ -64,14 +64,14 @@
 }
 .frame-two {
   width: 20.37%;
-  margin-right: 34px;
+  margin-right: 35.05px;
   padding: 0 0 2px;
   display: flex;
   align-items: center;
 }
 .frame-three {
   width: 10.8%;
-  margin-right: 34px;
+  margin-right: 35.04px;
   padding: 0 0 2px;
   display: flex;
   align-items: center;
@@ -85,32 +85,24 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/4a96d4e9-2910-4902-860a-0764981857ba.png");
+  background-image: url("https://static.overlay-tech.com/assets/14c7176b-fbde-46d2-8a35-05abaddee415.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
-.frame-six {
-  width: calc(98.45% - 202px);
+.deviz {
+  width: calc(98.45% - 136px);
   background-color: rgba(0, 0, 0, 0.43);
-  padding: 57px 101px 6px;
-  position: relative;
+  padding: 2px 68px 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   border: 5px solid rgba(255, 255, 255, 1);
   backdrop-filter: blur(30px);
 }
-.dvizhenie-ra-di-dvizhenija {
-  max-width: 432px;
-  font-family: "Montserrat";
-  font-size: 43px;
-  font-weight: 400;
-  line-height: 55px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  text-transform: uppercase;
-}
 .metamo-dern-two {
-  width: 672px;
+  width: 450px;
   font-family: "Montserrat";
   font-size: 44px;
   font-weight: 400;
@@ -118,9 +110,16 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  position: absolute;
-  left: calc(50% - 672px / 2);
-  top: 2px;
+}
+.dvizhenie-ra-di-dvizhenija {
+  max-width: 498px;
+  font-family: "Montserrat";
+  font-size: 43px;
+  font-weight: 400;
+  line-height: 55px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-transform: uppercase;
 }
 .opisanie {
   background-color: rgba(205, 248, 242, 1);
@@ -130,7 +129,7 @@
   align-items: center;
   align-self: stretch;
 }
-.frame-eight {
+.frame-six {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -146,7 +145,7 @@
   text-align: center;
   margin-bottom: 90px;
 }
-.frame-seven {
+.frame-five {
   padding: 13px 34px 20px;
   display: flex;
   align-items: flex-start;
@@ -169,7 +168,7 @@
   align-items: center;
   position: relative;
 }
-.frame-fourteen {
+.frame-twelve {
   width: calc(102.13% - 0.05px);
   padding: 0 0.05px 0 0;
   display: flex;
@@ -178,14 +177,14 @@
   left: -10px;
   top: 119px;
 }
-.frame-ten {
+.frame-eight {
   width: calc(33.33% - 19.98px);
   padding: 0 9.98px 5px 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.frame-nine {
+.frame-seven {
   background-color: rgba(245, 245, 245, 1);
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
@@ -217,7 +216,7 @@
   color: rgba(51, 51, 51, 1);
   text-align: center;
 }
-.frame-twelve {
+.frame-ten {
   width: calc(33.33% - 19.98px);
   margin-right: 0.01px;
   padding: 0 9.96px 5px 10.02px;
@@ -225,7 +224,7 @@
   flex-direction: column;
   align-items: center;
 }
-.frame-eleven {
+.frame-nine {
   width: calc(100% - 173px);
   background-color: rgba(245, 245, 245, 1);
   margin-bottom: 38px;
@@ -253,7 +252,7 @@
   color: rgba(51, 51, 51, 1);
   text-align: center;
 }
-.frame-thirteen {
+.frame-eleven {
   width: calc(33.33% - 19.98px);
   padding: 0 9.95px 5px 10.03px;
   display: flex;
@@ -304,7 +303,7 @@
   align-items: center;
   align-self: stretch;
 }
-.frame-twenty-nine {
+.frame-twenty-seven {
   padding: 10px 355px 1254.95px;
   display: flex;
   flex-direction: column;
@@ -312,7 +311,7 @@
   flex: 1;
   position: relative;
 }
-.frame-twenty {
+.frame-eighteen {
   width: calc(102.13% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -321,14 +320,14 @@
   left: -10px;
   top: 119px;
 }
-.frame-sixteen {
+.frame-fourteen {
   width: 31.91%;
   position: relative;
 }
-.frame-sixteen:not(:last-of-type) {
+.frame-fourteen:not(:last-of-type) {
   margin-right: 20px;
 }
-.frame-fifteen {
+.frame-thirteen {
   width: calc(100.01% - 216px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 108px 21px;
@@ -364,12 +363,12 @@
   left: calc(50% - 300px / 2);
   top: calc(50% - 300px / 2);
 }
-.frame-eighteen {
+.frame-sixteen {
   width: 31.91%;
   margin-right: 20.01px;
   position: relative;
 }
-.frame-seventeen {
+.frame-fifteen {
   width: calc(100.01% - 153px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 77px 21px 76px;
@@ -398,7 +397,7 @@
   text-transform: uppercase;
   margin-left: 51px;
 }
-.frame-nineteen {
+.frame-seventeen {
   width: calc(100.01% - 209px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 105px 21px 104px;
@@ -451,14 +450,14 @@
   left: -10px;
   top: 522.98px;
 }
-.frame-twenty-four {
+.frame-twenty-two {
   padding: 0 10.05px 20px 10px;
   display: flex;
   align-items: flex-start;
   flex: 1;
   position: relative;
 }
-.frame-twenty-one {
+.frame-nineteen {
   width: calc(100.01% - 216px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 108px 21px;
@@ -477,7 +476,7 @@
   text-transform: uppercase;
   margin-left: 12px;
 }
-.frame-twenty-two {
+.frame-twenty {
   width: calc(100.01% - 239px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 120px 21px 119px;
@@ -506,7 +505,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-three {
+.frame-twenty-one {
   width: calc(100.01% - 240px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 120px 21px;
@@ -535,7 +534,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-eight {
+.frame-twenty-six {
   width: calc(100% - 20.05px);
   padding: 0 10.05px 20px 10px;
   display: flex;
@@ -544,7 +543,7 @@
   left: 0;
   bottom: -396.02px;
 }
-.frame-twenty-five {
+.frame-twenty-three {
   width: calc(100.01% - 244px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 122px 21px;
@@ -573,7 +572,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-six {
+.frame-twenty-four {
   width: calc(100.01% - 206px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 103px 21px;
@@ -602,7 +601,7 @@
   text-align: center;
   text-transform: uppercase;
 }
-.frame-twenty-seven {
+.frame-twenty-five {
   width: calc(100.01% - 229px);
   background-color: rgba(255, 255, 255, 1);
   padding: 19px 115px 21px 114px;
@@ -753,14 +752,14 @@
   line-height: 36px;
   color: rgba(255, 255, 255, 1);
 }
-.frame-thirty-six {
+.otzyvy {
   background-color: rgba(245, 245, 245, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
   align-items: center;
   align-self: stretch;
 }
-.frame-thirty-five {
+.frame-thirty-three {
   padding: 0.05px 23.5px 0;
   display: flex;
   flex-direction: column;
@@ -772,7 +771,7 @@
   height: 16.62%;
   margin-bottom: 36.95px;
 }
-.frame-thirty-four {
+.frame-thirty-two {
   overflow: hidden;
   padding: 30px 446.5px 29px 0;
   align-self: stretch;
@@ -793,7 +792,7 @@
   left: calc(50% - 2px / 2);
   top: -0.05px;
 }
-.frame-thirty {
+.frame-twenty-eight {
   padding: 88.05px 191px 29.95px 191.5px;
   display: flex;
   align-items: flex-start;
@@ -830,7 +829,7 @@
   left: calc(50% - 95px / 2);
   bottom: -0.05px;
 }
-.frame-thirty-one {
+.frame-twenty-nine {
   padding: 121px 159px 0 160px;
   display: flex;
   flex-direction: column;
@@ -875,7 +874,7 @@
   left: calc(50% - 2px / 2);
   top: 0;
 }
-.frame-thirty-two {
+.frame-thirty {
   padding: 121.05px 191px 29.95px 191.5px;
   position: relative;
 }
@@ -904,7 +903,7 @@
   left: calc(50% - 181px / 2);
   bottom: -0.05px;
 }
-.frame-thirty-three {
+.frame-thirty-one {
   padding: 121px 164px 0 166px;
   display: flex;
   flex-direction: column;
@@ -935,17 +934,17 @@
   left: calc(50% - 340px / 2);
   top: -2px;
 }
-.frame-forty-three {
+.frame-forty {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/ecaa953e-d971-4858-a2ce-4e357787d8f1.png"),
+  background: url("https://static.overlay-tech.com/assets/5e49626e-a458-4c92-9f10-59527c131a69.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
   align-items: center;
   align-self: stretch;
 }
-.frame-forty-two {
+.frame-thirty-nine {
   padding: 10.05px 347px 302.95px 348px;
   display: flex;
   flex-direction: column;
@@ -953,7 +952,7 @@
   flex: 1;
   position: relative;
 }
-.frame-thirty-seven {
+.frame-thirty-four {
   width: calc(33.33% - 141.98px);
   padding: 13.05px 70.98px 5.95px 71px;
   display: flex;
@@ -1001,7 +1000,7 @@
   color: rgba(33, 33, 33, 1);
   text-align: center;
 }
-.frame-thirty-nine {
+.frame-thirty-six {
   width: calc(33.33% - 20px);
   margin-right: 0.01px;
   padding: 20.05px 10px 5px;
@@ -1025,7 +1024,7 @@
   text-transform: uppercase;
   margin-bottom: 20.95px;
 }
-.frame-thirty-eight {
+.frame-thirty-five {
   padding: 21.05px 61.96px 0.95px 61.02px;
   display: flex;
   flex-direction: column;
@@ -1073,7 +1072,7 @@
   left: calc(50% - 65px / 2);
   top: -0.95px;
 }
-.frame-forty-one {
+.frame-thirty-eight {
   width: calc(33.33% - 96.03px);
   padding: 20.05px 10px 11px 86.03px;
   display: flex;
@@ -1097,13 +1096,13 @@
   text-transform: uppercase;
   margin-bottom: 20.95px;
 }
-.frame-forty {
+.frame-thirty-seven {
   width: calc(89.75% - 187px);
   margin-left: 22.95px;
   padding: 0.05px 186.95px 5.95px 0.05px;
   position: relative;
 }
-.frame-forty:not(:last-of-type) {
+.frame-thirty-seven:not(:last-of-type) {
   margin-bottom: 11px;
 }
 .vector-two {
