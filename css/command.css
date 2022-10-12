@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/16b0ba86-9fd3-4df9-8723-aaec5e6167fd.png");
+  background-image: url("https://static.overlay-tech.com/assets/b6bf132f-dee2-4234-9421-cad039aec7f3.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -344,7 +344,7 @@
   height: 300px;
   position: absolute;
   left: calc(50% - 300px / 2);
-  top: calc(50% - 300px / 2);
+  top: 0;
 }
 .process-metamo-derna-two {
   width: 254px;
@@ -383,6 +383,23 @@
   margin-right: 20px;
   padding: 315.02px 12.98px 32.96px 33px;
   position: relative;
+}
+.image-three {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: calc(50% - 300px / 2);
+  top: calc(50% - 300px / 2);
+}
+.process-metamo-derna-three {
+  width: 100%;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 36px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  text-transform: uppercase;
 }
 .frame-fifteen {
   width: calc(31.91% - 45.98px);
@@ -599,7 +616,7 @@
   left: calc(50% - 330px / 2);
   top: -1.95px;
 }
-.image-three {
+.image-four {
   width: 64px;
   height: 64px;
 }
@@ -623,7 +640,7 @@
   align-items: center;
   position: relative;
 }
-.image-four {
+.image-five {
   width: 64px;
   height: 64px;
   margin-bottom: 10px;
@@ -724,7 +741,7 @@
 .frame-thirty-two {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/24b4e769-9f21-4a29-a2c5-38df9989ef70.png"),
+  background: url("https://static.overlay-tech.com/assets/22ac0f8a-c9cb-4064-b2d7-5ef3c68d6c6b.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
@@ -746,7 +763,7 @@
   flex-direction: column;
   align-items: center;
 }
-.image-five {
+.image-six {
   width: 44px;
   height: 65px;
   margin-bottom: 26px;
@@ -806,7 +823,7 @@
   flex-direction: column;
   align-items: center;
 }
-.image-six {
+.image-seven {
   width: 70px;
   height: 50px;
   margin-bottom: 34px;
@@ -877,7 +894,7 @@
   flex-direction: column;
   align-items: flex-start;
 }
-.image-seven {
+.image-eight {
   width: 68px;
   height: 56px;
   margin-bottom: 28px;
@@ -918,7 +935,7 @@
   left: 23.05px;
   top: -1.95px;
 }
-.image-eight {
+.image-nine {
   width: 100%;
   padding: 1.56px 0 1.06px;
   display: flex;
@@ -940,7 +957,7 @@
   left: 23.05px;
   top: -1.95px;
 }
-.image-nine {
+.image-ten {
   width: 100%;
   padding: 0 0 0.2px;
   display: flex;
