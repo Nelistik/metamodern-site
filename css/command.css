@@ -85,7 +85,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/4dd16ef5-af99-4140-b41a-18056adb0e28.png");
+  background-image: url("https://static.overlay-tech.com/assets/bae3b42c-7898-4f07-9f2e-59a97c44aaf9.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -640,9 +640,9 @@
   text-transform: uppercase;
 }
 .komanda {
-  width: calc(65.28% - 811px);
+  width: calc(65.28% - 707px);
   margin-bottom: 69.05px;
-  padding: 10.05px 405px 395.95px 406px;
+  padding: 10.05px 353px 431.95px 354px;
   position: relative;
 }
 .portrety-i-podpisi {
@@ -746,7 +746,7 @@
   text-align: center;
 }
 .nasha-komanda {
-  width: 129px;
+  width: 233px;
   text-align: center;
   font-family: "Tahoma";
   font-size: 23px;
@@ -946,7 +946,7 @@
 .frame-forty-one {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/f6c1bc3b-4d0f-4fba-b4d2-93765845d446.png"),
+  background: url("https://static.overlay-tech.com/assets/8bf6c509-b91a-4153-a167-d5b275083ccd.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
