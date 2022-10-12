@@ -85,36 +85,25 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/14c7176b-fbde-46d2-8a35-05abaddee415.png");
+  background-image: url("https://static.overlay-tech.com/assets/c51119f2-fd20-4554-a83a-ad83d514cfa5.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
 .deviz {
-  width: calc(98.45% - 136px);
+  width: calc(98.45% - 90px);
   background-color: rgba(0, 0, 0, 0.43);
-  padding: 2px 68px 6px;
+  padding: 2px 45px 6px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   border: 5px solid rgba(255, 255, 255, 1);
   backdrop-filter: blur(30px);
 }
-.metamo-dern-two {
-  width: 450px;
+.metamo-dern-dvizhenie-ra-di-dvizhenija {
+  max-width: 544px;
   font-family: "Montserrat";
   font-size: 44px;
-  font-weight: 400;
-  line-height: 55px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  text-transform: uppercase;
-}
-.dvizhenie-ra-di-dvizhenija {
-  max-width: 498px;
-  font-family: "Montserrat";
-  font-size: 43px;
   font-weight: 400;
   line-height: 55px;
   color: rgba(255, 255, 255, 1);
@@ -937,7 +926,7 @@
 .frame-forty {
   background-size: cover;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/5e49626e-a458-4c92-9f10-59527c131a69.png"),
+  background: url("https://static.overlay-tech.com/assets/e2f242ac-2e15-49db-93da-f4d93104feff.png"),
     rgba(126, 196, 189, 1);
   padding: 68.95px 250px 69.05px;
   display: flex;
