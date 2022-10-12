@@ -1,8 +1,8 @@
-.derek {
+.desktop {
   background-color: rgba(0, 0, 0, 1);
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
 }
 .chjolka {
   background-color: rgba(0, 0, 0, 1);
@@ -97,7 +97,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/3b93a033-a09b-404f-b011-cbc3192c46bd.png");
+  background-image: url("https://static.overlay-tech.com/assets/4f68f10f-520c-4c87-b396-014b711724d4.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -162,6 +162,7 @@
 .princip-raboty {
   width: calc(65.28% - 546px);
   margin-bottom: 36px;
+  margin-left: 250px;
   padding: 10px 273px 411px;
   display: flex;
   flex-direction: column;
@@ -187,7 +188,7 @@
 .frame-six {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/93374929-786c-44d5-aa6a-64dca659ea0a.png");
+  background-image: url("https://static.overlay-tech.com/assets/ecaf4980-9c2f-4a70-89ff-6169b8d4ab52.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -230,7 +231,7 @@
   width: calc(100% - 173px);
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/c7c0d79a-a74a-42ea-aee9-8d7f49ffc62e.png");
+  background-image: url("https://static.overlay-tech.com/assets/dc1d78e8-c783-4fbd-8758-6524df7e98c0.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -267,7 +268,7 @@
   width: calc(99.67% - 173px);
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/9c2f2be8-a029-49ee-be55-76d82025345b.png");
+  background-image: url("https://static.overlay-tech.com/assets/b5122c51-6fd2-40e3-b982-253020c9e835.png");
   margin-bottom: 28px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -312,8 +313,8 @@
 .nashi-proekty-two {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/820a9af1-c5f6-4fb4-adc8-379818927d65.png");
-  margin-bottom: 151px;
+  background-image: url("https://static.overlay-tech.com/assets/fa593ba4-f264-44b8-8645-0ae115fb07a6.png");
+  margin-bottom: 82px;
   padding: 191px 189px 71px 173px;
   display: flex;
   align-items: flex-start;
@@ -452,18 +453,45 @@
   top: -51px;
 }
 .komanda {
-  width: calc(65.28% - 613px);
-  margin-bottom: 151px;
-  padding: 8.05px 306px 429.95px 307px;
-  position: relative;
+  width: calc(73.47% - 98px);
+  margin-bottom: 148px;
+  margin-left: 193px;
+  padding: 27px 51px 20px 47px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.nasha-komanda {
+  height: 40px;
+  width: 327px;
+  display: flex;
+  text-align: center;
+  margin-bottom: 52px;
+  margin-left: 334px;
+  font-family: "Calibri";
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 1);
+}
+.nasha-komanda-emphasis-1 {
+  font-family: "Calibri";
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 1);
+}
+.nasha-komanda-emphasis-3 {
+  font-family: "Tahoma";
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 1);
 }
 .portrety-i-podpisi {
-  width: 102.13%;
   display: flex;
   align-items: flex-start;
-  position: absolute;
-  left: -10px;
-  top: 119px;
+  align-self: stretch;
 }
 .dzhon {
   width: calc(25% - 20px);
@@ -477,8 +505,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/26044e69-087b-494a-9514-943a3561b45a.png"),
-    url("https://static.overlay-tech.com/assets/1c47aa6e-7c32-4c7d-a987-10f0692f3bdb.png");
+  background: url("https://static.overlay-tech.com/assets/9b98e10b-4c4b-4b5c-90d2-8e5271fbd66f.png"),
+    url("https://static.overlay-tech.com/assets/3bbee923-d7e3-4aba-8011-906f7b9d3f72.png");
   margin-bottom: 20px;
 }
 .dzhon-dou {
@@ -506,8 +534,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/5984c235-a0ae-4560-870a-b2b66adc9328.png"),
-    url("https://static.overlay-tech.com/assets/1e993123-fac8-4b92-8470-e2f1321cff59.png");
+  background: url("https://static.overlay-tech.com/assets/dc672baa-e328-48af-bf5e-773c14d69496.png"),
+    url("https://static.overlay-tech.com/assets/ec0c7e40-9e49-46f8-a712-e28599cf9ee8.png");
   margin-bottom: 20px;
 }
 .dzhejn-dou {
@@ -535,8 +563,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/4bb8e79f-c49f-4089-bfe0-cf76193552bc.png"),
-    url("https://static.overlay-tech.com/assets/4fe11250-b42e-4443-aafd-d73d3cbb4bfa.png");
+  background: url("https://static.overlay-tech.com/assets/5168a885-835e-4e67-8de8-fcfe5ec2a794.png"),
+    url("https://static.overlay-tech.com/assets/f366145a-86b9-41da-be05-d37b14e19d9e.png");
   margin-bottom: 20px;
 }
 .denni-devri {
@@ -564,8 +592,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/84171a39-ea61-45a2-9994-cb92a75e9aae.png"),
-    url("https://static.overlay-tech.com/assets/dcf719eb-f837-4324-8577-cd422b789c1f.png");
+  background: url("https://static.overlay-tech.com/assets/96b3a023-f324-4531-b114-5e9cc07311be.png"),
+    url("https://static.overlay-tech.com/assets/e6627445-af3e-4172-acde-554311f5e4ea.png");
   margin-bottom: 20px;
 }
 .imjarek {
@@ -588,59 +616,37 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
-.nasha-komanda {
-  height: 40px;
-  width: 327px;
-  display: flex;
-  text-align: center;
-  font-family: "Tahoma";
-  font-size: 23px;
-  font-weight: 400;
-  line-height: 36px;
-  color: rgba(255, 255, 255, 1);
-}
-.nasha-komanda-emphasis-0 {
-  font-family: "Montserrat";
-  font-size: 23px;
-  font-weight: 400;
-  line-height: 36px;
-  color: rgba(255, 255, 255, 1);
-}
 .podval {
-  padding: 78px 161px 15px 185px;
+  height: calc(10.59% - 116px);
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/65fffd6d-f1d8-4668-96dc-3fc47ae3fd20.png");
+  padding: 57px 173px 59px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
 }
 .frame-twenty-two {
+  padding: 43px 53px 27.95px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
   flex: 1;
-  position: relative;
+  height: 238.05px;
 }
 .frame-nineteen {
-  width: calc(100% - 921px);
-  height: calc(100% - 63.05px);
+  width: calc(100% - 815px);
+  height: calc(100% - 41.1px);
+  margin-top: 0.05px;
   padding: 13.05px 70px 28px 69px;
-  position: absolute;
-  left: 53px;
-  top: -5.95px;
-}
-.rossija-moskva-vadkovskij-pereulok-3a {
-  max-width: 158px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  margin-bottom: -196.95px;
-  margin-left: 8px;
-  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .image-five {
   width: 44px;
   height: 65px;
   margin-bottom: 20.95px;
-  margin-left: 65px;
 }
 .prihodi-v-gosti {
   width: 173px;
@@ -651,14 +657,42 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
+  margin-bottom: 25px;
+}
+.rossija-moskva-vadkovskij-pereulok-3a {
+  max-width: 158px;
+  font-family: "Vollkorn";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .frame-twenty {
-  width: calc(100% - 921px);
-  height: calc(100% - 73.05px);
+  width: calc(100% - 815px);
+  height: calc(100% - 51.1px);
   padding: 13.05px 70px 38px 69px;
-  position: absolute;
-  left: 391px;
-  top: -6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.image-six {
+  width: 44px;
+  height: 65px;
+  margin-bottom: 20.95px;
+  margin-left: 65px;
+}
+.napishi-nam {
+  width: 173px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 37px;
 }
 .helgter-ru-tg {
   max-width: 158px;
@@ -668,35 +702,16 @@
   line-height: 22px;
   color: rgba(255, 255, 255, 1);
   text-align: center;
-  margin-bottom: -186.95px;
   margin-left: 15px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .frame-twenty-one {
-  width: calc(100% - 865px);
-  height: calc(100% - 85.05px);
+  width: calc(100% - 759px);
+  height: calc(100% - 63.1px);
   padding: 13.05px 42px 50px 41px;
-  position: absolute;
-  right: 53px;
-  top: -6px;
-}
-.vkontakte {
-  width: 158px;
-  font-family: "Vollkorn";
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 22px;
-  color: rgba(255, 255, 255, 1);
-  text-align: center;
-  margin-bottom: -152.95px;
-  margin-left: 36px;
-  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-}
-.image-six {
-  width: 44px;
-  height: 65px;
-  margin-bottom: 20.95px;
-  margin-left: 93px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .zajdi-na-stranichku {
   width: 229px;
@@ -707,9 +722,9 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 47px;
+  margin-bottom: 25px;
 }
-.git-hub {
+.vkontakte {
   width: 158px;
   font-family: "Vollkorn";
   font-size: 17px;
@@ -717,6 +732,5 @@
   line-height: 22px;
   color: rgba(255, 255, 255, 1);
   text-align: center;
-  margin-left: 36px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
