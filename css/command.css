@@ -97,7 +97,7 @@
 .oblozhka {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/4f68f10f-520c-4c87-b396-014b711724d4.png");
+  background-image: url("https://static.overlay-tech.com/assets/1564b782-3c0a-45e6-8c0f-fbfc9807d946.png");
   padding: 104px 398px;
   display: flex;
   align-items: flex-start;
@@ -139,13 +139,13 @@
 .opisanie {
   background-color: rgba(205, 248, 242, 1);
   margin-bottom: 102px;
-  padding: 32px 250px 29px;
+  padding: 32px 212px 29px;
   display: flex;
   align-items: flex-start;
   align-self: stretch;
 }
 .frame-five {
-  padding: 28px 0 0;
+  padding: 28px 38px 0;
   display: flex;
   align-items: flex-start;
   flex: 1;
@@ -188,7 +188,7 @@
 .frame-six {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/ecaf4980-9c2f-4a70-89ff-6169b8d4ab52.png");
+  background-image: url("https://static.overlay-tech.com/assets/cac50509-d1f3-4606-a225-df65c524af66.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -231,7 +231,7 @@
   width: calc(100% - 173px);
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/dc1d78e8-c783-4fbd-8758-6524df7e98c0.png");
+  background-image: url("https://static.overlay-tech.com/assets/437ac164-2d59-47a3-8678-e7b15f463c0a.png");
   margin-bottom: 38px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -268,7 +268,7 @@
   width: calc(99.67% - 173px);
   background-size: 100% 100%;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/b5122c51-6fd2-40e3-b982-253020c9e835.png");
+  background-image: url("https://static.overlay-tech.com/assets/136b6eb2-b510-4ef4-8b42-fd77bd4c0994.png");
   margin-bottom: 28px;
   padding: 50px 87px 50px 86px;
   display: flex;
@@ -313,7 +313,7 @@
 .nashi-proekty-two {
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/fa593ba4-f264-44b8-8645-0ae115fb07a6.png");
+  background-image: url("https://static.overlay-tech.com/assets/c58356b7-fd36-409a-9d72-44b17a7ab721.png");
   margin-bottom: 82px;
   padding: 191px 189px 71px 173px;
   display: flex;
@@ -454,47 +454,21 @@
 }
 .komanda {
   width: calc(73.47% - 98px);
-  margin-bottom: 148px;
+  margin-bottom: 216px;
   margin-left: 193px;
-  padding: 27px 51px 20px 47px;
+  padding: 0 51px 20px 47px;
   display: flex;
-  flex-direction: column;
   align-items: flex-start;
-}
-.nasha-komanda {
-  height: 40px;
-  width: 327px;
-  display: flex;
-  text-align: center;
-  margin-bottom: 52px;
-  margin-left: 334px;
-  font-family: "Calibri";
-  font-size: 23px;
-  font-weight: 700;
-  line-height: 36px;
-  color: rgba(255, 255, 255, 1);
-}
-.nasha-komanda-emphasis-1 {
-  font-family: "Calibri";
-  font-size: 23px;
-  font-weight: 400;
-  line-height: 36px;
-  color: rgba(255, 255, 255, 1);
-}
-.nasha-komanda-emphasis-3 {
-  font-family: "Tahoma";
-  font-size: 23px;
-  font-weight: 700;
-  line-height: 36px;
-  color: rgba(255, 255, 255, 1);
 }
 .portrety-i-podpisi {
+  padding: 31px 0 0;
   display: flex;
   align-items: flex-start;
-  align-self: stretch;
+  flex: 1;
 }
 .dzhon {
   width: calc(25% - 20px);
+  margin-top: 88px;
   padding: 0.05px 10px 52.95px;
   display: flex;
   flex-direction: column;
@@ -505,8 +479,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/9b98e10b-4c4b-4b5c-90d2-8e5271fbd66f.png"),
-    url("https://static.overlay-tech.com/assets/3bbee923-d7e3-4aba-8011-906f7b9d3f72.png");
+  background: url("https://static.overlay-tech.com/assets/31de564c-20ee-40fa-930b-46a6bd2d2746.png"),
+    url("https://static.overlay-tech.com/assets/43c41c07-0f44-4c77-bd12-cfd95e77ef70.png");
   margin-bottom: 20px;
 }
 .dzhon-dou {
@@ -529,13 +503,56 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
+.flex-wrapper-five {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.nasha-komanda {
+  height: 40px;
+  width: 68.13%;
+  display: flex;
+  text-align: center;
+  margin-bottom: 48px;
+  margin-left: 78px;
+  font-family: "Calibri";
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 1);
+}
+.nasha-komanda-emphasis-1 {
+  font-family: "Calibri";
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 1);
+}
+.nasha-komanda-emphasis-3 {
+  font-family: "Tahoma";
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 1);
+}
+.flex-wrapper-six {
+  display: flex;
+  align-items: flex-start;
+}
+.dzhejn {
+  width: calc(50% - 20px);
+  padding: 0.05px 10px 52.95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .flex-wrapper-three {
   width: 220px;
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/dc672baa-e328-48af-bf5e-773c14d69496.png"),
-    url("https://static.overlay-tech.com/assets/ec0c7e40-9e49-46f8-a712-e28599cf9ee8.png");
+  background: url("https://static.overlay-tech.com/assets/eba88b96-9cb5-42b1-bf6a-55a5fd07a775.png"),
+    url("https://static.overlay-tech.com/assets/70810b32-6b1e-4312-9f7c-1f5678a87155.png");
   margin-bottom: 20px;
 }
 .dzhejn-dou {
@@ -563,8 +580,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/5168a885-835e-4e67-8de8-fcfe5ec2a794.png"),
-    url("https://static.overlay-tech.com/assets/f366145a-86b9-41da-be05-d37b14e19d9e.png");
+  background: url("https://static.overlay-tech.com/assets/6e2b3542-bcca-4bea-b1c9-eee058be3cfb.png"),
+    url("https://static.overlay-tech.com/assets/cc12a418-bab4-4ec5-8bcd-3f973dd09713.png");
   margin-bottom: 20px;
 }
 .denni-devri {
@@ -592,8 +609,8 @@
   height: 220px;
   background-size: 100% 100%;
   background-position: center;
-  background: url("https://static.overlay-tech.com/assets/96b3a023-f324-4531-b114-5e9cc07311be.png"),
-    url("https://static.overlay-tech.com/assets/e6627445-af3e-4172-acde-554311f5e4ea.png");
+  background: url("https://static.overlay-tech.com/assets/71794b0e-011c-4078-a29d-a27e6f28c1c8.png"),
+    url("https://static.overlay-tech.com/assets/c549c7f3-30a1-47b7-9972-f6c7ab2fb998.png");
   margin-bottom: 20px;
 }
 .imjarek {
@@ -617,36 +634,34 @@
   text-align: center;
 }
 .podval {
-  height: calc(10.59% - 116px);
+  height: calc(8.9% - 53px);
   background-size: cover;
   background-position: center;
-  background-image: url("https://static.overlay-tech.com/assets/65fffd6d-f1d8-4668-96dc-3fc47ae3fd20.png");
-  padding: 57px 173px 59px;
+  background-image: url("https://static.overlay-tech.com/assets/08ced653-186b-4a4f-9074-7dd49f5c6011.png");
+  padding: 25px 193px 28px 176px;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   align-self: stretch;
 }
 .frame-twenty-two {
-  padding: 43px 53px 27.95px;
+  padding: 39px 56px 39px 77px;
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
   flex: 1;
-  height: 238.05px;
 }
 .frame-nineteen {
-  width: calc(100% - 815px);
-  height: calc(100% - 41.1px);
-  margin-top: 0.05px;
-  padding: 13.05px 70px 28px 69px;
+  width: calc(100% - 765px);
+  margin-right: 64px;
+  padding: 17.05px 46px 24px 47px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  align-self: stretch;
 }
 .image-five {
   width: 44px;
   height: 65px;
-  margin-bottom: 20.95px;
+  margin-bottom: 8.95px;
 }
 .prihodi-v-gosti {
   width: 173px;
@@ -670,9 +685,11 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .frame-twenty {
-  width: calc(100% - 815px);
-  height: calc(100% - 51.1px);
-  padding: 13.05px 70px 38px 69px;
+  width: calc(100% - 765px);
+  height: calc(100% - 51.05px);
+  margin-top: 11px;
+  margin-right: 66px;
+  padding: 0.05px 38px 40px 44px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -680,7 +697,7 @@
 .image-six {
   width: 44px;
   height: 65px;
-  margin-bottom: 20.95px;
+  margin-bottom: 8.95px;
   margin-left: 65px;
 }
 .napishi-nam {
@@ -706,12 +723,18 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .frame-twenty-one {
-  width: calc(100% - 759px);
-  height: calc(100% - 63.1px);
-  padding: 13.05px 42px 50px 41px;
+  width: calc(100% - 709px);
+  height: calc(100% - 51.05px);
+  padding: 6.05px 32px 21px 26px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
+}
+.image-seven {
+  width: 44px;
+  height: 65px;
+  margin-bottom: 8.95px;
+  margin-left: 93px;
 }
 .zajdi-na-stranichku {
   width: 229px;
@@ -732,5 +755,9 @@
   line-height: 22px;
   color: rgba(255, 255, 255, 1);
   text-align: center;
+  margin-left: 36px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.vkontakte:not(:last-of-type) {
+  margin-bottom: 12px;
 }
